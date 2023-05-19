@@ -1,0 +1,1022 @@
+17:22:05:524 (00001300) > [Startup] Rise of the Tomb Raider
+17:22:05:524 (00001300) > [Startup] ==============
+17:22:05:524 (00001300) > [Startup] 
+17:22:05:524 (00001300) > [Startup] Build: v1.0 build 1026.0_64
+17:22:05:524 (00001300) > [Startup] Windows 10.0 (build 22621)
+17:22:05:524 (00001300) > [Startup] Game directory: C:\Users\autho\Documents\Rise of the Tomb Raider\
+17:22:05:524 (00001300) > [Startup] 
+17:22:05:524 (00001300) > [Startup] Memory statistics:
+17:22:05:524 (00001300) > [Startup]   Total RAM = 15.6 GB (16021 MB)
+17:22:05:524 (00001300) > [Startup]   Avail RAM = 11.6 GB (11886 MB)
+17:22:05:524 (00001300) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+17:22:05:524 (00001300) > [Startup]   Avail virtual memory = 131064.8 GB (134210346 MB)
+17:22:05:524 (00001300) > [Startup] 
+17:22:05:524 (00001300) > [NxApp] PreInit
+17:22:05:524 (00001300) > [Steam] Initializing.
+17:22:05:524 (00001300) > [Steam] Successfully initialized.
+17:22:05:524 (00001300) > [Epic] Initializing Epic SDK.
+17:22:05:536 (00001300) > [Epic] Initialized. Setting Logging Callback ...
+17:22:05:536 (00001300) > [Epic] Logging Callback Set
+17:22:05:536 (00001300) > [Epic] Creating platform.
+17:22:05:538 (00001300) > [Epic] LogEOSOverlay: Overlay will not load, because the binary's path is not configured
+17:22:05:544 (00001300) > [Epic] LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started with the correct launcher if you intend to use it.
+17:22:05:544 (00001300) > [Epic] Platform created.
+17:22:05:544 (00001300) > [SwapChain] Initializing...
+17:22:05:544 (00001300) > [DXGI] Initializing...
+17:22:06:658 (00001300) > [DXGI] Created DXGIFactory1
+17:22:06:658 (00001300) > [DXGI] Successfully initialized.
+17:22:06:658 (00001300) > [Render] Enumerating adapters:
+17:22:06:658 (00001300) > [Render] 	Adapter 0:
+17:22:06:658 (00001300) > [Monitor] 		Description             : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+17:22:06:658 (00001300) > [Monitor] 		Vendor                  : nVidia (10de)
+17:22:06:658 (00001300) > [Monitor] 		Device                  : 25a0
+17:22:06:658 (00001300) > [Monitor] 		Sub system              : 88f9103c
+17:22:06:658 (00001300) > [Monitor] 		Revision                : 161
+17:22:06:658 (00001300) > [Monitor] 		Dedicated Video Memory  : 3976 MB
+17:22:06:658 (00001300) > [Monitor] 		Dedicated System Memory : 0000 MB
+17:22:06:658 (00001300) > [Monitor] 		Shared System Memory    : 8010 MB
+17:22:06:658 (00001300) > [Monitor] 
+17:22:06:658 (00001300) > [Render] Loading NVAPI...
+17:22:06:663 (00001300) > [Render] NVidia 3D Vision NvAPI_Stereo_IsEnabled error.
+17:22:06:663 (00001300) > [Render] Done loading NVAPI
+17:22:06:663 (00001300) > [Render] 	Adapter 1:
+17:22:06:663 (00001300) > [Monitor] 		Description             : Intel(R) UHD Graphics
+17:22:06:663 (00001300) > [Monitor] 		Vendor                  : Intel (8086)
+17:22:06:663 (00001300) > [Monitor] 		Device                  : 9a68
+17:22:06:663 (00001300) > [Monitor] 		Sub system              : 88f9103c
+17:22:06:663 (00001300) > [Monitor] 		Revision                : 1
+17:22:06:663 (00001300) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+17:22:06:663 (00001300) > [Monitor] 		Dedicated System Memory : 0000 MB
+17:22:06:663 (00001300) > [Monitor] 		Shared System Memory    : 8010 MB
+17:22:06:663 (00001300) > [Monitor] 
+17:22:06:663 (00001300) > [Render] 	Adapter 2:
+17:22:06:663 (00001300) > [Monitor] 		Description             : Microsoft Basic Render Driver
+17:22:06:663 (00001300) > [Monitor] 		Vendor                  : Unknown (1414)
+17:22:06:663 (00001300) > [Monitor] 		Device                  : 8c
+17:22:06:663 (00001300) > [Monitor] 		Sub system              : 0
+17:22:06:663 (00001300) > [Monitor] 		Revision                : 0
+17:22:06:663 (00001300) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+17:22:06:663 (00001300) > [Monitor] 		Dedicated System Memory : 0000 MB
+17:22:06:663 (00001300) > [Monitor] 		Shared System Memory    : 8010 MB
+17:22:06:663 (00001300) > [Monitor] 
+17:22:06:663 (00001300) > [Render] Enumerating monitors:
+17:22:06:663 (00001300) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78
+17:22:06:664 (00001300) > [Render] 
+17:22:06:767 (00001300) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+17:22:06:767 (00001300) > [Render] NVidia 3D Vision is not enabled.
+17:22:06:767 (00001300) > [Render] Enumerating Display Modes:
+17:22:06:767 (00001300) > [Render] Querying NVAPI for Surround modes
+17:22:06:768 (00001300) > [Render] NvAPI_DISP_GetGDIPrimaryDisplayId returned NVAPI_NVIDIA_DEVICE_NOT_FOUND (fffffffa)
+
+17:22:07:586 (00001300) > [NxDLSS] DLSS support test, code = 0x00000001, info: NVSDK_NGX_Result_Success
+17:22:08:328 (00001300) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3050 Ti Laptop GPU(1))' (0000000000010001):
+17:22:08:328 (00001300) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode  2 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode  3 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode  5 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode  6 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode  7 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode  8 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode  9 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 10 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 11 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 12 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 13 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 14 : 1280 x  600 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 15 : 1280 x  600 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 16 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 17 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 18 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 19 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 20 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 21 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 22 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 23 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 24 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 25 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 26 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 27 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 28 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 29 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 30 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 31 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 32 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 33 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 34 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 35 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 36 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 37 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 38 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 39 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 40 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 41 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 42 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 43 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 44 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 45 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 46 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 47 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 48 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 49 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 50 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 51 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 52 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 53 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 54 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 55 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 56 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 57 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 58 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 59 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 60 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 61 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 62 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 63 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 64 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 65 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 66 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 67 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 68 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 69 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 70 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 71 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 72 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 73 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 74 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 75 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 76 : 1280 x  600 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 77 : 1280 x  600 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 78 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 79 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 80 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 81 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 82 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 83 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 84 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 85 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 86 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 87 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 88 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 89 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 90 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 91 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 92 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 93 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 94 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 95 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 96 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 97 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 98 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 99 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 100 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 101 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 102 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 103 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 104 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 105 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 106 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 107 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 108 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 109 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 110 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 111 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 112 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 113 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 114 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 115 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 116 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 117 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 118 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 119 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 120 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 121 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 122 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 		- Mode 123 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+17:22:08:328 (00001300) > [Render] 
+17:22:08:328 (00001300) > [SwapChain] Successfully initialized.
+17:22:08:328 (00001300) > [NxApp] PreInit successful.
+17:22:08:328 (00001300) > [Main] Current directory: D:\Games\Rise of the Tomb Raider
+17:22:08:328 (00001300) > [Main] Working directory: D:\Games\Rise of the Tomb Raider
+17:22:08:331 (00001300) > [MultiCore] CPU count: logical = 12
+17:22:08:374 (00001300) > [Main] Steam Language: '(null)'
+17:22:08:374 (00001300) > [Main] Settings: Text Language: 'en-us' | VO Language: 'en-us' | Steam Game Language 'es-es'
+17:22:08:374 (00001300) > [Main] Using: Text Language: 'en-us' | VO Language: 'en-us'
+17:22:08:598 (00001300) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+17:22:18:038 (00001300) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+17:22:18:039 (00001300) > [D3D] Initializing...
+17:22:18:039 (00001300) > [D3D] Loaded d3d11.dll
+17:22:18:039 (00001300) > [D3D] Obtained D3D11CreateDevice address
+17:22:18:039 (00001300) > [D3D] Successfully initialized
+17:22:18:047 (00001300) > [D3D] Max supported feature level: 11.0
+17:22:18:047 (00012784) > [D3D] Creating D3D Device...
+17:22:18:047 (00012784) > [SwapChain] Creating D3D on adapter '1 (NVIDIA GeForce RTX 3050 Ti Laptop GPU(1))'.
+17:22:18:082 (00012784) > [SwapChain] Created D3D device with feature level 11.0.
+17:22:18:083 (00012784) > [D3D] Successfully created.
+17:22:18:083 (00001300) > [NxApp] Querying GPU Driver Info...
+17:22:18:086 (00001300) > [NxApp] Enumerating available display adapters:
+17:22:18:091 (00001300) > [NxApp] 		Intel(R) UHD Graphics
+17:22:18:092 (00001300) > [NxApp] 		NVIDIA GeForce RTX 3050 Ti Laptop GPU (active)
+17:22:18:092 (00001300) > [NxApp] Successfully found GPU Driver Info
+17:22:18:092 (00001300) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+17:22:18:092 (00001300) > [NxApp] Driver Version: 31.0.15.3114
+17:22:18:092 (00001300) > [Settings] DirectX Version: 11
+17:22:18:092 (00001300) > [Settings] Window mode:
+17:22:18:092 (00001300) > [Settings] 	Fullscreen: 1
+17:22:18:092 (00001300) > [Settings] 	Excl.Fullscreen: 0
+17:22:18:092 (00001300) > [Settings] 	Monitor: 0
+17:22:18:092 (00001300) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 1920 h: 1080
+17:22:18:092 (00001300) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 1920 h: 1020
+17:22:18:092 (00001300) > [Settings] 		Aspect Ratio: 1.775000 (Pixel Aspect Ratio: 1.001565)
+17:22:18:092 (00001300) > [Settings] Fullscreen display mode:
+17:22:18:092 (00001300) > [Settings] 	Display mode: 1920x1080@60
+17:22:18:092 (00001300) > [Settings] 		VSync: 1, TripleBuffer: 0
+17:22:18:092 (00001300) > [Settings] 		MultiMonitor: 0
+17:22:18:092 (00001300) > [Settings] 		BezelCorrected: 0
+17:22:18:092 (00001300) > [Settings] 		Stereoscopic3D: 0
+17:22:18:092 (00001300) > [Settings] Window settings:
+17:22:18:092 (00001300) > [Settings] 	Window rect: x: 240 y: 135 w: 1440 h: 810
+17:22:18:092 (00001300) > [Settings] 	User window: w: 1440 h: 810
+17:22:18:092 (00001300) > [Settings] 	Window maximized: 0
+17:22:18:092 (00001300) > [Settings] Graphics Options:
+17:22:18:092 (00001300) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 1
+17:22:18:092 (00001300) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
+17:22:18:092 (00001300) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+17:22:18:092 (00001300) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+17:22:18:092 (00001300) > [Settings] 	Specular Reflection Quality: 0
+17:22:18:092 (00001300) > [Settings] 	FoliageQuality: 1
+17:22:18:092 (00001300) > [Settings] 	FOVCorrection :1.000000
+17:22:18:092 (00001300) > [Settings] 	LevelOfDetail: 2
+17:22:18:092 (00001300) > [Settings] 	StereoSeparation: 0.022000
+17:22:18:092 (00001300) > [Settings] 	StereoPopOut: 5.000000
+17:22:18:092 (00001300) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+17:22:18:092 (00001300) > [NxApp] Creating window...
+17:22:18:094 (00014948) > [GameWindow] UpdateState bVisible true
+17:22:18:110 (00014948) > [Input] Keyboard language: "English (India)" (id: 16393)
+17:22:18:110 (00014948) > [Input] Keyboard physical layout: "India" (id: 00004009)
+17:22:18:110 (00014948) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 109
+17:22:18:110 (00014948) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+17:22:18:110 (00014948) > [Input] Joystick            ""   product 42 vendor 9610 version 4753 usage 1 usagePage 12 xinput no
+17:22:18:110 (00014948) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 52861 vendor 1739 version 259 usage 1 usagePage 65280
+17:22:18:110 (00014948) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+17:22:18:110 (00014948) > [Input] Human Input Device  "HID-compliant wireless radio controls"   product 1 vendor 1 version 1 usage 12 usagePage 1
+17:22:18:110 (00014948) > [Input] Human Input Device  "Synaptics TPFHID Device"   product 52861 vendor 1739 version 259 usage 5 usagePage 13
+17:22:18:110 (00014948) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 8 sampleRate 0 horizontalWheel no
+17:22:18:110 (00014948) > [Input] Mouse               "Synaptics PrecisionTouchpad Filter Driver"   id 256 buttons 5 sampleRate 40 horizontalWheel no
+17:22:18:111 (00014948) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 7 subType 0 mode 1 function 12 indicators 3 total 101
+17:22:18:113 (00001300) > [NxApp] Window created.
+17:22:18:113 (00001300) > [NxApp] Initializing swapchain...
+17:22:18:113 (00012784) > [SwapChain] Creating...
+17:22:18:113 (00012784) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+17:22:18:113 (00012784) > [Render] NVidia 3D Vision is not enabled.
+17:22:18:114 (00012784) > [VR] VR Released.
+17:22:18:115 (00012784) > [DXGI] Created swapchain.
+17:22:18:116 (00012784) > [SwapChain] Gamma correction is enabled.
+17:22:18:116 (00012784) > [SwapChain] Successfully created.
+17:22:18:120 (00001300) > [NxApp] Swapchain initialized
+17:22:18:120 (00001300) > [NxApp] Initializing renderer...
+17:22:18:122 (00001300) > [NxApp] Renderer initialized
+17:22:18:122 (00001300) > [Main] Starting Tomb Raider v1.0 build 1026.0_64
+17:22:18:162 (00001300) > [D3D] [Render] PCDX11DeviceManager constructor start
+17:22:18:162 (00001300) > [D3D] D3D Adapter Information:
+17:22:18:162 (00001300) > [D3D] Adapter Description: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+17:22:18:162 (00001300) > [D3D] VendorID: 10de
+17:22:18:162 (00001300) > [D3D] DeviceID: 25a0
+17:22:18:162 (00001300) > [D3D] Revision: a1
+17:22:18:162 (00001300) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+17:22:18:162 (00001300) > [D3D] NVAPI loaded succesfully.
+17:22:18:163 (00001300) > [D3D] NVAPI Depth Bounds Test supported.
+17:22:18:222 (00001300) > [VXGI] VXGI has been succesfully initialized
+17:22:18:232 (00001300) > [HBAO+] HBAO+ Context creation succeeded
+17:22:18:868 (00001300) > [D3D] D3D Adapter Information:
+17:22:18:868 (00001300) > [D3D] Adapter Description: Intel(R) UHD Graphics
+17:22:18:868 (00001300) > [D3D] VendorID: 8086
+17:22:18:868 (00001300) > [D3D] DeviceID: 9a68
+17:22:18:868 (00001300) > [D3D] Revision: 1
+17:22:18:890 (00001300) > [VXGI] VXGI has been succesfully initialized
+17:22:18:892 (00001300) > [HBAO+] HBAO+ Context creation succeeded
+17:22:18:911 (00001300) > [D3D] [Render] Adapter I has no outputs!
+17:22:18:911 (00001300) > [D3D] D3D Adapter Information:
+17:22:18:911 (00001300) > [D3D] Adapter Description: Microsoft Basic Render Driver
+17:22:18:911 (00001300) > [D3D] VendorID: 1414
+17:22:18:911 (00001300) > [D3D] DeviceID: 8c
+17:22:18:911 (00001300) > [D3D] Revision: 0
+17:22:18:935 (00001300) > [VXGI] VXGI has been succesfully initialized
+17:22:18:937 (00001300) > [HBAO+] HBAO+ Context creation succeeded
+17:22:18:959 (00001300) > [D3D] [Render] Adapter M has no outputs!
+17:22:18:959 (00001300) > [D3D] [Render] PCDX11DeviceManager constructor end
+17:22:18:959 (00001300) > [D3D] D3D Adapter Information:
+17:22:18:959 (00001300) > [D3D] Adapter Description: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+17:22:18:959 (00001300) > [D3D] VendorID: 10de
+17:22:18:959 (00001300) > [D3D] DeviceID: 25a0
+17:22:18:959 (00001300) > [D3D] Revision: a1
+17:22:18:959 (00001300) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+17:22:18:959 (00001300) > [D3D] NVAPI loaded succesfully.
+17:22:18:959 (00001300) > [D3D] NVAPI Depth Bounds Test supported.
+17:22:18:983 (00001300) > [VXGI] VXGI has been succesfully initialized
+17:22:18:985 (00001300) > [HBAO+] HBAO+ Context creation succeeded
+17:22:19:007 (00001300) > [D3D] PCDX11SwapChain::Resize(1920, 1080, False)
+17:22:19:007 (00001300) > [D3D] PCDX11SwapChain::Resize no change
+17:22:19:262 (00001300) > [Sound] Initalizing audio...
+17:22:19:583 (00001300) > [Sound] Audio device found. FMOD reports 1 driver(s).
+17:22:19:583 (00001300) > [Sound] Audio Driver Name: Speaker (Realtek(R) Audio)
+17:22:19:583 (00001300) > [Sound] Speaker Mode: 2
+17:22:19:995 (00001300) > [Input] Assigned gamepad -1 to player 0
+17:22:20:891 (00001300) > [Epic] LogEOS: Large tick time detected 15.3486
+17:22:20:893 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 15.348580
+17:22:21:201 (00001300) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+17:22:21:201 (00001300) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+17:22:21:201 (00001300) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+17:22:21:201 (00001300) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+17:22:21:228 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:22:21:228 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:22:21:228 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:22:21:228 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 1 (Closing connection 0)
+17:22:21:228 (00001300) > [Epic] WARNING: LogHttp: Lockout of 2.720054s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:22:23:953 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:22:23:981 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:22:23:981 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:22:23:981 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:22:23:981 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 3 (Closing connection 1)
+17:22:23:981 (00001300) > [Epic] WARNING: LogHttp: Lockout of 5.021149s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:22:25:361 (00001300) > [Menu] UiMenuStateSquareEnixMembers::OnEnter: bFromStartupFlow=1, HasSEMBeenHandled=1, bIsOnline=1
+17:22:29:015 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:22:29:042 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:22:29:042 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:22:29:042 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:22:29:042 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 5 (Closing connection 2)
+17:22:29:042 (00001300) > [Epic] WARNING: LogHttp: Lockout of 15.473861s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:22:44:523 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:22:44:550 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:22:44:550 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:22:44:550 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:22:44:550 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 7 (Closing connection 3)
+17:22:44:550 (00001300) > [Epic] WARNING: LogHttp: Lockout of 26.028137s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:23:10:585 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:23:10:611 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:23:10:611 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:23:10:611 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:23:10:611 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 9 (Closing connection 4)
+17:23:10:611 (00001300) > [Epic] WARNING: LogHttp: Lockout of 33.771172s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:23:44:396 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:23:44:433 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:23:44:433 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:23:44:433 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:23:44:433 (00001300) > [Epic] WARNING: LogHttp: 000001D1C15095B0: libcurl info message cache 11 (Closing connection 5)
+17:23:44:433 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:23:44:433 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:23:44:451 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 2.002319 seconds
+17:23:46:452 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 100.907677
+17:23:46:509 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:23:46:509 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:23:46:509 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:23:46:509 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 1 (Closing connection 6)
+17:23:46:509 (00001300) > [Epic] WARNING: LogHttp: Lockout of 2.630696s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:23:49:150 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:23:49:187 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:23:49:187 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:23:49:187 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:23:49:187 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 3 (Closing connection 7)
+17:23:49:187 (00001300) > [Epic] WARNING: LogHttp: Lockout of 7.497177s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:23:56:691 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:23:56:729 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:23:56:729 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:23:56:729 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:23:56:729 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 5 (Closing connection 8)
+17:23:56:729 (00001300) > [Epic] WARNING: LogHttp: Lockout of 8.757591s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:24:05:497 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:24:05:534 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:24:05:534 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:24:05:534 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:24:05:534 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 7 (Closing connection 9)
+17:24:05:534 (00001300) > [Epic] WARNING: LogHttp: Lockout of 21.238441s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:24:26:790 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:24:26:827 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:24:26:828 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:24:26:828 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:24:26:828 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 9 (Closing connection 10)
+17:24:26:828 (00001300) > [Epic] WARNING: LogHttp: Lockout of 50.729088s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:25:17:565 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:25:17:603 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:25:17:603 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:25:17:603 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:25:17:603 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96020: libcurl info message cache 11 (Closing connection 11)
+17:25:17:603 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:25:17:603 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:25:17:622 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 7.899655 seconds
+17:25:25:509 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 199.966080
+17:25:25:567 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:25:25:567 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:25:25:567 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:25:25:567 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 1 (Closing connection 12)
+17:25:25:567 (00001300) > [Epic] WARNING: LogHttp: Lockout of 2.290902s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:25:27:861 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:25:27:882 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:25:27:882 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:25:27:882 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:25:27:883 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 3 (Closing connection 13)
+17:25:27:883 (00001300) > [Epic] WARNING: LogHttp: Lockout of 7.440046s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:25:35:339 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:25:35:359 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:25:35:359 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:25:35:359 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:25:35:359 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 5 (Closing connection 14)
+17:25:35:359 (00001300) > [Epic] WARNING: LogHttp: Lockout of 13.368084s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:25:48:738 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:25:48:781 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:25:48:781 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:25:48:781 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:25:48:781 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 7 (Closing connection 15)
+17:25:48:781 (00001300) > [Epic] WARNING: LogHttp: Lockout of 23.447493s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:26:12:231 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:26:12:264 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:26:12:264 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:26:12:264 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:26:12:264 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 9 (Closing connection 16)
+17:26:12:264 (00001300) > [Epic] WARNING: LogHttp: Lockout of 57.910702s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:27:10:178 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:27:10:206 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:27:10:206 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:27:10:206 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:27:10:206 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD95A50: libcurl info message cache 11 (Closing connection 17)
+17:27:10:206 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:27:10:206 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:27:10:220 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 13.474044 seconds
+17:27:23:692 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 318.148071
+17:27:23:720 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:27:23:720 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:27:23:720 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:27:23:720 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 1 (Closing connection 18)
+17:27:23:720 (00001300) > [Epic] WARNING: LogHttp: Lockout of 2.330760s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:27:23:720 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:27:26:060 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:27:26:070 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:27:26:070 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:27:26:070 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:27:26:070 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 3 (Closing connection 19)
+17:27:26:070 (00001300) > [Epic] WARNING: LogHttp: Lockout of 5.954772s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:27:26:070 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:27:32:032 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:27:32:047 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:27:32:047 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:27:32:047 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:27:32:047 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 5 (Closing connection 20)
+17:27:32:047 (00001300) > [Epic] WARNING: LogHttp: Lockout of 11.502304s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:27:32:047 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:27:43:562 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:27:43:600 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:27:43:600 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:27:43:600 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:27:43:600 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 7 (Closing connection 21)
+17:27:43:600 (00001300) > [Epic] WARNING: LogHttp: Lockout of 25.201452s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:28:08:815 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:28:08:829 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:28:08:829 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:28:08:829 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:28:08:829 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 9 (Closing connection 22)
+17:28:08:829 (00001300) > [Epic] WARNING: LogHttp: Lockout of 48.139896s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:28:08:829 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:28:56:979 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:28:56:992 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:28:56:992 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:28:56:992 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:28:56:992 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 11 (Closing connection 23)
+17:28:56:992 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:28:56:992 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:28:56:992 (00001300) > [Epic] LogEOSAnalytics: Dropped 5 metrics from the queue[0]
+17:28:57:004 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 21.829767 seconds
+17:29:18:826 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 433.283234
+17:29:18:865 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:29:18:865 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:29:18:865 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:29:18:865 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 1 (Closing connection 24)
+17:29:18:865 (00001300) > [Epic] WARNING: LogHttp: Lockout of 2.238288s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:29:18:865 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:29:21:111 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:29:21:153 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:29:21:153 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:29:21:153 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:29:21:153 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 3 (Closing connection 25)
+17:29:21:153 (00001300) > [Epic] WARNING: LogHttp: Lockout of 6.071962s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:29:27:228 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:29:27:243 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:29:27:243 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:29:27:243 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:29:27:243 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 5 (Closing connection 26)
+17:29:27:243 (00001300) > [Epic] WARNING: LogHttp: Lockout of 10.437574s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:29:27:243 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:29:37:694 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:29:37:708 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:29:37:708 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:29:37:708 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:29:37:708 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 7 (Closing connection 27)
+17:29:37:708 (00001300) > [Epic] WARNING: LogHttp: Lockout of 28.436415s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:30:06:151 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:30:06:166 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:30:06:166 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:30:06:166 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:30:06:166 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 9 (Closing connection 28)
+17:30:06:166 (00001300) > [Epic] WARNING: LogHttp: Lockout of 33.862728s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:30:40:031 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:30:40:073 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:30:40:073 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:30:40:073 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:30:40:073 (00001300) > [Epic] WARNING: LogHttp: 000001D311CD8920: libcurl info message cache 11 (Closing connection 29)
+17:30:40:073 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:30:40:073 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:30:40:073 (00001300) > [Epic] LogEOSAnalytics: Dropped 4 metrics from the queue[0]
+17:30:40:087 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 58.668781 seconds
+17:30:40:101 (00001300) > [Epic] LogEOSConnect: ConnectClientAuthTask Failure
+17:30:40:115 (00001300) > [Epic] ERROR: LogEOSAnalytics: Unable to get the client client auth token. Last result: EOS_UnexpectedError.
+17:31:38:745 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 573.202271
+17:31:38:787 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:31:38:787 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:31:38:787 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:31:38:787 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 1 (Closing connection 30)
+17:31:38:787 (00001300) > [Epic] WARNING: LogHttp: Lockout of 3.176427s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:31:38:787 (00001300) > [Epic] LogEOSAnalytics: Dropped 2 metrics from the queue[0]
+17:31:41:967 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:31:41:980 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:31:41:980 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:31:41:980 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:31:41:980 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 3 (Closing connection 31)
+17:31:41:980 (00001300) > [Epic] WARNING: LogHttp: Lockout of 6.155095s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:31:48:148 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:31:48:189 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:31:48:189 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:31:48:189 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:31:48:189 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 5 (Closing connection 32)
+17:31:48:189 (00001300) > [Epic] WARNING: LogHttp: Lockout of 11.360943s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:31:59:556 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:31:59:585 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:31:59:585 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:31:59:585 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:31:59:585 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 7 (Closing connection 33)
+17:31:59:585 (00001300) > [Epic] WARNING: LogHttp: Lockout of 25.441694s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:32:25:028 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:32:25:042 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:32:25:042 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:32:25:042 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:32:25:042 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 9 (Closing connection 34)
+17:32:25:042 (00001300) > [Epic] WARNING: LogHttp: Lockout of 32.535175s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:32:25:042 (00001300) > [Epic] LogEOSAnalytics: Dropped 2 metrics from the queue[0]
+17:32:57:579 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:32:57:618 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:32:57:618 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:32:57:618 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:32:57:618 (00001300) > [Epic] WARNING: LogHttp: 000001D311CEE5E0: libcurl info message cache 11 (Closing connection 35)
+17:32:57:618 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:32:57:618 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:32:57:618 (00001300) > [Epic] LogEOSAnalytics: Dropped 3 metrics from the queue[0]
+17:32:57:636 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 2.307321 seconds
+17:32:59:937 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 654.393616
+17:32:59:995 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:32:59:995 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:32:59:995 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:32:59:995 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 1 (Closing connection 36)
+17:32:59:995 (00001300) > [Epic] WARNING: LogHttp: Lockout of 2.934294s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:33:02:936 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:33:02:985 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:33:02:985 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:33:02:985 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:33:02:985 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 3 (Closing connection 37)
+17:33:02:985 (00001300) > [Epic] WARNING: LogHttp: Lockout of 4.384778s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:33:07:380 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:33:07:412 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:33:07:412 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:33:07:412 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:33:07:412 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 5 (Closing connection 38)
+17:33:07:412 (00001300) > [Epic] WARNING: LogHttp: Lockout of 9.590137s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:33:17:006 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:33:17:020 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:33:17:020 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:33:17:020 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:33:17:020 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 7 (Closing connection 39)
+17:33:17:020 (00001300) > [Epic] WARNING: LogHttp: Lockout of 16.417006s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:33:17:020 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:33:33:443 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:33:33:483 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:33:33:483 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:33:33:483 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:33:33:483 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 9 (Closing connection 40)
+17:33:33:483 (00001300) > [Epic] WARNING: LogHttp: Lockout of 59.673145s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:34:33:164 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:34:33:182 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:34:33:182 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:34:33:182 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:34:33:182 (00001300) > [Epic] WARNING: LogHttp: 000001D34AD96BC0: libcurl info message cache 11 (Closing connection 41)
+17:34:33:182 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:34:33:182 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:34:33:182 (00001300) > [Epic] LogEOSAnalytics: Dropped 4 metrics from the queue[0]
+17:34:33:199 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 5.014313 seconds
+17:34:38:196 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 752.651672
+17:34:38:228 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:34:38:228 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:34:38:228 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:34:38:228 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 1 (Closing connection 42)
+17:34:38:228 (00001300) > [Epic] WARNING: LogHttp: Lockout of 3.832087s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:34:38:228 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:34:42:069 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:34:42:085 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:34:42:085 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:34:42:085 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:34:42:085 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 3 (Closing connection 43)
+17:34:42:085 (00001300) > [Epic] WARNING: LogHttp: Lockout of 4.839992s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:34:47:326 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:34:47:361 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:34:47:361 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:34:47:361 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:34:47:361 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 5 (Closing connection 44)
+17:34:47:361 (00001300) > [Epic] WARNING: LogHttp: Lockout of 13.074373s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:35:00:438 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:35:00:452 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:35:00:452 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:35:00:452 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:35:00:452 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 7 (Closing connection 45)
+17:35:00:452 (00001300) > [Epic] WARNING: LogHttp: Lockout of 16.002441s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:35:16:459 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:35:16:488 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:35:16:488 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:35:16:488 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:35:16:488 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 9 (Closing connection 46)
+17:35:16:488 (00001300) > [Epic] WARNING: LogHttp: Lockout of 50.740074s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:35:16:488 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:36:07:236 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:36:07:279 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:36:07:279 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:36:07:279 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:36:07:279 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53AE70: libcurl info message cache 11 (Closing connection 47)
+17:36:07:279 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:36:07:279 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:36:07:279 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:36:07:292 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 8.160649 seconds
+17:36:15:444 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 849.901306
+17:36:15:473 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:36:15:473 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:36:15:473 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:36:15:473 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 1 (Closing connection 48)
+17:36:15:473 (00001300) > [Epic] WARNING: LogHttp: Lockout of 2.118656s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:36:17:596 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:36:17:626 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:36:17:626 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:36:17:626 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:36:17:626 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 3 (Closing connection 49)
+17:36:17:626 (00001300) > [Epic] WARNING: LogHttp: Lockout of 7.604968s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:36:25:235 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:36:25:262 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:36:25:262 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:36:25:262 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:36:25:262 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 5 (Closing connection 50)
+17:36:25:262 (00001300) > [Epic] WARNING: LogHttp: Lockout of 11.214698s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:36:36:478 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:36:36:492 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:36:36:492 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:36:36:492 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:36:36:492 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 7 (Closing connection 51)
+17:36:36:492 (00001300) > [Epic] WARNING: LogHttp: Lockout of 19.974243s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:36:56:471 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:36:56:512 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:36:56:513 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:36:56:513 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:36:56:513 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 9 (Closing connection 52)
+17:36:56:513 (00001300) > [Epic] WARNING: LogHttp: Lockout of 39.200413s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:36:56:513 (00001300) > [Epic] LogEOSAnalytics: Dropped 3 metrics from the queue[0]
+17:37:35:717 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:37:35:746 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:37:35:746 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:37:35:746 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:37:35:746 (00001300) > [Epic] WARNING: LogHttp: 000001D311CDF1C0: libcurl info message cache 11 (Closing connection 53)
+17:37:35:746 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:37:35:746 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:37:35:746 (00001300) > [Epic] LogEOSAnalytics: Dropped 2 metrics from the queue[0]
+17:37:35:761 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 25.591114 seconds
+17:38:01:355 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 955.812256
+17:38:01:397 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:38:01:397 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:38:01:397 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:38:01:397 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 1 (Closing connection 54)
+17:38:01:397 (00001300) > [Epic] WARNING: LogHttp: Lockout of 3.931455s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:38:01:397 (00001300) > [Epic] LogEOSAnalytics: Dropped 2 metrics from the queue[0]
+17:38:05:344 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:38:05:367 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:38:05:367 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:38:05:367 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:38:05:367 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 3 (Closing connection 55)
+17:38:05:367 (00001300) > [Epic] WARNING: LogHttp: Lockout of 6.505692s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:38:05:367 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:38:11:875 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:38:11:892 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:38:11:892 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:38:11:892 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:38:11:892 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 5 (Closing connection 56)
+17:38:11:892 (00001300) > [Epic] WARNING: LogHttp: Lockout of 9.870907s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:38:11:892 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:38:21:766 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:38:21:793 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:38:21:793 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:38:21:793 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:38:21:793 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 7 (Closing connection 57)
+17:38:21:794 (00001300) > [Epic] WARNING: LogHttp: Lockout of 25.465134s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:38:21:794 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:38:47:268 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:38:47:285 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:38:47:285 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:38:47:285 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:38:47:285 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 9 (Closing connection 58)
+17:38:47:285 (00001300) > [Epic] WARNING: LogHttp: Lockout of 32.610249s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:38:47:285 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:39:19:903 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:39:19:932 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:39:19:932 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:39:19:932 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:39:19:932 (00001300) > [Epic] WARNING: LogHttp: 000001D2BF53A2D0: libcurl info message cache 11 (Closing connection 59)
+17:39:19:932 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:39:19:932 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:39:19:945 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 40.080265 seconds
+17:40:00:025 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 1074.482666
+17:40:00:071 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:40:00:071 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:40:00:071 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:40:00:071 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 1 (Closing connection 60)
+17:40:00:071 (00001300) > [Epic] WARNING: LogHttp: Lockout of 2.653951s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:40:00:071 (00001300) > [Epic] LogEOSAnalytics: Dropped 4 metrics from the queue[0]
+17:40:02:728 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:40:02:743 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:40:02:743 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:40:02:743 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:40:02:743 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 3 (Closing connection 61)
+17:40:02:743 (00001300) > [Epic] WARNING: LogHttp: Lockout of 6.970794s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:40:02:743 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:40:09:727 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:40:09:755 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:40:09:755 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:40:09:755 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:40:09:755 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 5 (Closing connection 62)
+17:40:09:755 (00001300) > [Epic] WARNING: LogHttp: Lockout of 11.295267s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:40:21:051 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:40:21:097 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:40:21:097 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:40:21:097 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:40:21:097 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 7 (Closing connection 63)
+17:40:21:097 (00001300) > [Epic] WARNING: LogHttp: Lockout of 17.922422s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:40:21:098 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:40:39:034 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:40:39:064 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:40:39:064 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:40:39:064 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:40:39:064 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 9 (Closing connection 64)
+17:40:39:064 (00001300) > [Epic] WARNING: LogHttp: Lockout of 34.032104s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:41:13:105 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:41:13:120 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:41:13:120 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:41:13:120 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:41:13:120 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 11 (Closing connection 65)
+17:41:13:120 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:41:13:120 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:41:13:120 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:41:13:136 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 2.411512 seconds
+17:41:15:534 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 1149.993164
+17:41:15:564 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:41:15:564 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:41:15:564 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:41:15:564 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 1 (Closing connection 66)
+17:41:15:564 (00001300) > [Epic] WARNING: LogHttp: Lockout of 3.016388s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:41:15:564 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:41:18:589 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:41:18:623 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:41:18:623 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:41:18:623 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:41:18:623 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 3 (Closing connection 67)
+17:41:18:623 (00001300) > [Epic] WARNING: LogHttp: Lockout of 4.962798s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:41:18:623 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:41:23:587 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:41:23:612 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:41:23:612 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:41:23:612 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:41:23:612 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 5 (Closing connection 68)
+17:41:23:612 (00001300) > [Epic] WARNING: LogHttp: Lockout of 12.757225s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:41:36:381 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:41:36:430 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:41:36:430 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:41:36:430 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:41:36:430 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 7 (Closing connection 69)
+17:41:36:430 (00001300) > [Epic] WARNING: LogHttp: Lockout of 26.470047s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:41:36:430 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:42:02:904 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:42:02:932 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:42:02:932 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:42:02:932 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:42:02:932 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 9 (Closing connection 70)
+17:42:02:932 (00001300) > [Epic] WARNING: LogHttp: Lockout of 36.256905s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:42:02:932 (00001300) > [Epic] LogEOSAnalytics: Dropped 2 metrics from the queue[0]
+17:42:39:190 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:42:39:206 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:42:39:206 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:42:39:206 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:42:39:206 (00001300) > [Epic] WARNING: LogHttp: 000001D311CE48F0: libcurl info message cache 11 (Closing connection 71)
+17:42:39:206 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:42:39:206 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:42:39:206 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:42:39:222 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 7.056002 seconds
+17:42:46:274 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 1240.731934
+17:42:46:322 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:42:46:322 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:42:46:322 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:42:46:322 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 1 (Closing connection 72)
+17:42:46:322 (00001300) > [Epic] WARNING: LogHttp: Lockout of 3.785577s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:42:50:111 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:42:50:145 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:42:50:145 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:42:50:145 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:42:50:145 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 3 (Closing connection 73)
+17:42:50:145 (00001300) > [Epic] WARNING: LogHttp: Lockout of 6.874599s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:42:57:024 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:42:57:050 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:42:57:050 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:42:57:050 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:42:57:050 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 5 (Closing connection 74)
+17:42:57:050 (00001300) > [Epic] WARNING: LogHttp: Lockout of 14.143986s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:43:11:207 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:43:11:250 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:43:11:250 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:43:11:251 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:43:11:251 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 7 (Closing connection 75)
+17:43:11:251 (00001300) > [Epic] WARNING: LogHttp: Lockout of 23.453840s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:43:11:251 (00001300) > [Epic] LogEOSAnalytics: Dropped 2 metrics from the queue[0]
+17:43:34:705 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:43:34:739 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:43:34:739 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:43:34:739 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:43:34:739 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 9 (Closing connection 76)
+17:43:34:739 (00001300) > [Epic] WARNING: LogHttp: Lockout of 45.389572s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:43:34:739 (00001300) > [Epic] LogEOSAnalytics: Dropped 2 metrics from the queue[0]
+17:44:20:135 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:44:20:176 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:44:20:176 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:44:20:176 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:44:20:177 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F3EE0: libcurl info message cache 11 (Closing connection 77)
+17:44:20:177 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:44:20:177 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:44:20:177 (00001300) > [Epic] LogEOSAnalytics: Dropped 2 metrics from the queue[0]
+17:44:20:190 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 9.853572 seconds
+17:44:30:039 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 1344.492798
+17:44:30:103 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:44:30:103 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:44:30:103 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:44:30:103 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 1 (Closing connection 78)
+17:44:30:103 (00001300) > [Epic] WARNING: LogHttp: Lockout of 2.984100s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:44:33:098 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:44:33:116 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:44:33:116 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:44:33:116 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:44:33:116 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 3 (Closing connection 79)
+17:44:33:117 (00001300) > [Epic] WARNING: LogHttp: Lockout of 6.054384s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:44:39:177 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:44:39:205 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:44:39:205 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:44:39:205 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:44:39:205 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 5 (Closing connection 80)
+17:44:39:205 (00001300) > [Epic] WARNING: LogHttp: Lockout of 14.769981s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:44:53:985 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:44:54:016 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:44:54:016 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:44:54:016 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:44:54:016 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 7 (Closing connection 81)
+17:44:54:016 (00001300) > [Epic] WARNING: LogHttp: Lockout of 24.241463s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:45:18:266 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:45:18:307 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:45:18:307 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:45:18:307 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:45:18:307 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 9 (Closing connection 82)
+17:45:18:307 (00001300) > [Epic] WARNING: LogHttp: Lockout of 58.906826s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:45:18:308 (00001300) > [Epic] LogEOSAnalytics: Dropped 3 metrics from the queue[0]
+17:46:17:228 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:46:17:253 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:46:17:253 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:46:17:253 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:46:17:253 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1F27A0: libcurl info message cache 11 (Closing connection 83)
+17:46:17:253 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:46:17:253 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:46:17:253 (00001300) > [Epic] LogEOSAnalytics: Dropped 4 metrics from the queue[0]
+17:46:17:265 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 25.936827 seconds
+17:46:43:199 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 1477.648438
+17:46:43:246 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:46:43:246 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:46:43:248 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:46:43:248 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 1 (Closing connection 84)
+17:46:43:248 (00001300) > [Epic] WARNING: LogHttp: Lockout of 3.362102s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:46:43:248 (00001300) > [Epic] LogEOSAnalytics: Dropped 3 metrics from the queue[0]
+17:46:46:616 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:46:46:630 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:46:46:630 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:46:46:630 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:46:46:630 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 3 (Closing connection 85)
+17:46:46:630 (00001300) > [Epic] WARNING: LogHttp: Lockout of 5.163121s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:46:51:799 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:46:51:827 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:46:51:827 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:46:51:827 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:46:51:827 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 5 (Closing connection 86)
+17:46:51:827 (00001300) > [Epic] WARNING: LogHttp: Lockout of 10.437574s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:47:02:279 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:47:02:322 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:47:02:322 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:47:02:322 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:47:02:322 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 7 (Closing connection 87)
+17:47:02:322 (00001300) > [Epic] WARNING: LogHttp: Lockout of 31.330547s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:47:33:656 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:47:33:698 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:47:33:698 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:47:33:698 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:47:33:698 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 9 (Closing connection 88)
+17:47:33:698 (00001300) > [Epic] WARNING: LogHttp: Lockout of 55.934937s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:47:33:698 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:48:29:646 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:48:29:677 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:48:29:677 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:48:29:677 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:48:29:677 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1ED640: libcurl info message cache 11 (Closing connection 89)
+17:48:29:677 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:48:29:677 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:48:29:677 (00001300) > [Epic] LogEOSAnalytics: Dropped 5 metrics from the queue[0]
+17:48:29:693 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 55.785698 seconds
+17:49:25:467 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 1639.912598
+17:49:25:493 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:49:25:493 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:49:25:493 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:49:25:493 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 1 (Closing connection 90)
+17:49:25:493 (00001300) > [Epic] WARNING: LogHttp: Lockout of 3.200537s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:49:25:493 (00001300) > [Epic] LogEOSAnalytics: Dropped 2 metrics from the queue[0]
+17:49:28:700 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:49:28:714 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:49:28:714 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:49:28:714 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:49:28:714 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 3 (Closing connection 91)
+17:49:28:714 (00001300) > [Epic] WARNING: LogHttp: Lockout of 5.461104s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:49:34:186 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:49:34:214 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:49:34:214 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:49:34:214 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:49:34:214 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 5 (Closing connection 92)
+17:49:34:214 (00001300) > [Epic] WARNING: LogHttp: Lockout of 8.732444s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:49:34:214 (00001300) > [Epic] LogEOSAnalytics: Dropped 2 metrics from the queue[0]
+17:49:42:950 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:49:42:992 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:49:42:992 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:49:42:992 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:49:42:992 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 7 (Closing connection 93)
+17:49:42:992 (00001300) > [Epic] WARNING: LogHttp: Lockout of 24.247810s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:49:42:992 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:50:07:241 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:50:07:270 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:50:07:270 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:50:07:270 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:50:07:270 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 9 (Closing connection 94)
+17:50:07:270 (00001300) > [Epic] WARNING: LogHttp: Lockout of 36.611221s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:50:07:270 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:50:43:892 (00001300) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:50:43:904 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:50:43:904 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:50:43:904 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+17:50:43:904 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 11 (Closing connection 95)
+17:50:43:904 (00001300) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:50:43:904 (00001300) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+17:50:43:904 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
+17:50:43:920 (00001300) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 2.616352 seconds
+17:50:46:523 (00001300) > [Epic] LogEOS: Updating Platform SDK Config, Time: 1720.967285
+17:50:46:579 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:50:46:580 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:50:46:580 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+17:50:46:580 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 1 (Closing connection 96)
+17:50:46:580 (00001300) > [Epic] WARNING: LogHttp: Lockout of 3.978271s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:50:50:566 (00001300) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:50:50:607 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:50:50:607 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:50:50:607 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+17:50:50:607 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 3 (Closing connection 97)
+17:50:50:607 (00001300) > [Epic] WARNING: LogHttp: Lockout of 4.234382s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:50:54:850 (00001300) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:50:54:890 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:50:54:890 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:50:54:890 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+17:50:54:890 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 5 (Closing connection 98)
+17:50:54:890 (00001300) > [Epic] WARNING: LogHttp: Lockout of 13.471602s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:51:08:363 (00001300) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:51:08:391 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:51:08:391 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:51:08:391 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+17:51:08:391 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 7 (Closing connection 99)
+17:51:08:391 (00001300) > [Epic] WARNING: LogHttp: Lockout of 24.168705s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:51:12:537 (00012784) > [DXGI] Present failed with HRESULT 0x087a0001
+17:51:12:553 (00012784) > [DXGI] Present failed with HRESULT 0x087a0001
+17:51:12:567 (00012784) > [DXGI] Present failed with HRESULT 0x087a0001
+17:51:12:581 (00012784) > [DXGI] Present failed with HRESULT 0x087a0001
+17:51:42:758 (00001300) > [Epic] LogEOS: Large tick time detected 27.8637
+17:51:42:758 (00001300) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:51:42:792 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+17:51:42:792 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: request failed, libcurl error: 6 (Couldn't resolve host name)
+17:51:42:792 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+17:51:42:792 (00001300) > [Epic] WARNING: LogHttp: 000001D36C1E9650: libcurl info message cache 9 (Closing connection 100)
+17:51:42:793 (00001300) > [Epic] WARNING: LogHttp: Lockout of 50.366528s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+17:51:42:793 (00001300) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
