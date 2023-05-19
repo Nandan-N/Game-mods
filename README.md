@@ -1,2 +1,2 @@
-# Web-server
-NodeJS webserver created using http module
+# Mods 🎮
+Contains mods and config files for my mmorpg games 🧑‍🔧
