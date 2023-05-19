@@ -1,0 +1,29 @@
+[18-04-2023 19:50:45] no valid game process found...
+[18-04-2023 19:50:45] 	Process #0: 'D:\Games\Sekiro - Shadows Die Twice\sekiro.exe' | (D:\Games\Sekiro - Shadows Die Twice\sekiro.exe)
+[18-04-2023 19:50:45] 	Description #0:  | FromSoftware, Inc. | Sekiro™: Shadows Die Twice
+[18-04-2023 19:50:45] 	Data #0: 1.6.0.0 | 70066176 | 18-04-2023 18:39:35 | True | False
+[18-04-2023 19:50:47] no valid game process found...
+[18-04-2023 19:50:47] 	Process #0: 'D:\Games\Sekiro - Shadows Die Twice\sekiro.exe' | (D:\Games\Sekiro - Shadows Die Twice\sekiro.exe)
+[18-04-2023 19:50:47] 	Description #0:  | FromSoftware, Inc. | Sekiro™: Shadows Die Twice
+[18-04-2023 19:50:47] 	Data #0: 1.6.0.0 | 70066176 | 18-04-2023 18:39:35 | True | False
+[30-04-2023 20:18:13] no valid game process found...
+[30-04-2023 20:18:13] 	Process #0: 'D:\Games\Sekiro - Shadows Die Twice\sekiro.exe' | (D:\Games\Sekiro - Shadows Die Twice\sekiro.exe)
+[30-04-2023 20:18:13] 	Description #0:  | FromSoftware, Inc. | Sekiro™: Shadows Die Twice
+[30-04-2023 20:18:14] 	Data #0: 1.6.0.0 | 70066176 | 30-04-2023 20:18:13 | True | False
+[30-04-2023 21:01:01] Failed writing stats file: The process cannot access the file 'F:\TotalKillsCounter.txt' because it is being used by another process.
+[30-04-2023 21:03:51] Failed writing stats file: The process cannot access the file 'F:\DeathCounter.txt' because it is being used by another process.
+[30-04-2023 21:04:46] Failed writing stats file: The process cannot access the file 'F:\DeathCounter.txt' because it is being used by another process.
+[30-04-2023 21:07:49] Failed writing stats file: The process cannot access the file 'F:\TotalKillsCounter.txt' because it is being used by another process.
+[30-04-2023 21:09:07] Failed writing stats file: The process cannot access the file 'F:\TotalKillsCounter.txt' because it is being used by another process.
+[19-05-2023 23:55:08] Failed writing stats file: The process cannot access the file 'F:\DeathCounter.txt' because it is being used by another process.
+[19-05-2023 23:56:03] Failed writing stats file: The process cannot access the file 'F:\DeathCounter.txt' because it is being used by another process.
+[19-05-2023 23:56:06] Failed writing stats file: The process cannot access the file 'F:\DeathCounter.txt' because it is being used by another process.
+[19-05-2023 23:56:06] Failed writing stats file: The process cannot access the file 'F:\TotalKillsCounter.txt' because it is being used by another process.
+[19-05-2023 23:56:43] Failed writing stats file: The process cannot access the file 'F:\DeathCounter.txt' because it is being used by another process.
+[19-05-2023 23:56:43] Failed writing stats file: The process cannot access the file 'F:\TotalKillsCounter.txt' because it is being used by another process.
+[19-05-2023 23:57:04] Failed writing stats file: The process cannot access the file 'F:\DeathCounter.txt' because it is being used by another process.
+[19-05-2023 23:57:04] Failed writing stats file: The process cannot access the file 'F:\DeathCounter.txt' because it is being used by another process.
+[19-05-2023 23:57:08] Failed writing stats file: The process cannot access the file 'F:\TotalKillsCounter.txt' because it is being used by another process.
+[19-05-2023 23:57:14] Failed writing stats file: The process cannot access the file 'F:\TotalKillsCounter.txt' because it is being used by another process.
+[19-05-2023 23:57:21] Failed writing stats file: The process cannot access the file 'F:\TotalKillsCounter.txt' because it is being used by another process.
+[19-05-2023 23:57:24] Failed writing stats file: The process cannot access the file 'F:\TotalKillsCounter.txt' because it is being used by another process.
