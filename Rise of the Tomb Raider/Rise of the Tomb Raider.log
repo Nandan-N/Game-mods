@@ -1,0 +1,470 @@
+19:48:32:020 (00006104) > [Startup] Rise of the Tomb Raider
+19:48:32:020 (00006104) > [Startup] ==============
+19:48:32:020 (00006104) > [Startup] 
+19:48:32:020 (00006104) > [Startup] Build: v1.0 build 1026.0_64
+19:48:32:020 (00006104) > [Startup] Windows 10.0 (build 22621)
+19:48:32:020 (00006104) > [Startup] Game directory: C:\Users\autho\Documents\Rise of the Tomb Raider\
+19:48:32:020 (00006104) > [Startup] 
+19:48:32:020 (00006104) > [Startup] Memory statistics:
+19:48:32:020 (00006104) > [Startup]   Total RAM = 15.6 GB (16021 MB)
+19:48:32:020 (00006104) > [Startup]   Avail RAM = 9.6 GB (9876 MB)
+19:48:32:020 (00006104) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+19:48:32:020 (00006104) > [Startup]   Avail virtual memory = 131064.8 GB (134210342 MB)
+19:48:32:020 (00006104) > [Startup] 
+19:48:32:020 (00006104) > [NxApp] PreInit
+19:48:32:020 (00006104) > [Steam] Initializing.
+19:48:32:021 (00006104) > [Steam] Successfully initialized.
+19:48:32:021 (00006104) > [Epic] Initializing Epic SDK.
+19:48:32:057 (00006104) > [Epic] Initialized. Setting Logging Callback ...
+19:48:32:057 (00006104) > [Epic] Logging Callback Set
+19:48:32:057 (00006104) > [Epic] Creating platform.
+19:48:32:060 (00006104) > [Epic] LogEOSOverlay: Overlay will not load, because the binary's path is not configured
+19:48:32:071 (00006104) > [Epic] LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started with the correct launcher if you intend to use it.
+19:48:32:072 (00006104) > [Epic] Platform created.
+19:48:32:073 (00006104) > [SwapChain] Initializing...
+19:48:32:073 (00006104) > [DXGI] Initializing...
+19:48:32:086 (00006104) > [DXGI] Created DXGIFactory1
+19:48:32:086 (00006104) > [DXGI] Successfully initialized.
+19:48:32:086 (00006104) > [Render] Enumerating adapters:
+19:48:32:086 (00006104) > [Render] 	Adapter 0:
+19:48:32:086 (00006104) > [Monitor] 		Description             : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+19:48:32:086 (00006104) > [Monitor] 		Vendor                  : nVidia (10de)
+19:48:32:086 (00006104) > [Monitor] 		Device                  : 25a0
+19:48:32:086 (00006104) > [Monitor] 		Sub system              : 88f9103c
+19:48:32:086 (00006104) > [Monitor] 		Revision                : 161
+19:48:32:086 (00006104) > [Monitor] 		Dedicated Video Memory  : 3976 MB
+19:48:32:086 (00006104) > [Monitor] 		Dedicated System Memory : 0000 MB
+19:48:32:086 (00006104) > [Monitor] 		Shared System Memory    : 8010 MB
+19:48:32:086 (00006104) > [Monitor] 
+19:48:32:086 (00006104) > [Render] Loading NVAPI...
+19:48:32:091 (00006104) > [Render] NVidia 3D Vision NvAPI_Stereo_IsEnabled error.
+19:48:32:091 (00006104) > [Render] Done loading NVAPI
+19:48:32:091 (00006104) > [Render] 	Adapter 1:
+19:48:32:091 (00006104) > [Monitor] 		Description             : Intel(R) UHD Graphics
+19:48:32:091 (00006104) > [Monitor] 		Vendor                  : Intel (8086)
+19:48:32:091 (00006104) > [Monitor] 		Device                  : 9a68
+19:48:32:091 (00006104) > [Monitor] 		Sub system              : 88f9103c
+19:48:32:091 (00006104) > [Monitor] 		Revision                : 1
+19:48:32:091 (00006104) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+19:48:32:091 (00006104) > [Monitor] 		Dedicated System Memory : 0000 MB
+19:48:32:091 (00006104) > [Monitor] 		Shared System Memory    : 8010 MB
+19:48:32:091 (00006104) > [Monitor] 
+19:48:32:091 (00006104) > [Render] 	Adapter 2:
+19:48:32:091 (00006104) > [Monitor] 		Description             : Microsoft Basic Render Driver
+19:48:32:091 (00006104) > [Monitor] 		Vendor                  : Unknown (1414)
+19:48:32:091 (00006104) > [Monitor] 		Device                  : 8c
+19:48:32:091 (00006104) > [Monitor] 		Sub system              : 0
+19:48:32:091 (00006104) > [Monitor] 		Revision                : 0
+19:48:32:091 (00006104) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+19:48:32:091 (00006104) > [Monitor] 		Dedicated System Memory : 0000 MB
+19:48:32:091 (00006104) > [Monitor] 		Shared System Memory    : 8010 MB
+19:48:32:091 (00006104) > [Monitor] 
+19:48:32:091 (00006104) > [Render] Enumerating monitors:
+19:48:32:091 (00006104) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78
+19:48:32:091 (00006104) > [Render] 
+19:48:32:199 (00006104) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+19:48:32:199 (00006104) > [Render] NVidia 3D Vision is not enabled.
+19:48:32:199 (00006104) > [Render] Enumerating Display Modes:
+19:48:32:201 (00006104) > [Render] Querying NVAPI for Surround modes
+19:48:32:201 (00006104) > [Render] NvAPI_DISP_GetGDIPrimaryDisplayId returned NVAPI_NVIDIA_DEVICE_NOT_FOUND (fffffffa)
+
+19:48:33:111 (00006104) > [NxDLSS] DLSS support test, code = 0x00000001, info: NVSDK_NGX_Result_Success
+19:48:33:911 (00006104) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3050 Ti Laptop GPU(1))' (0000000000010001):
+19:48:33:911 (00006104) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode  2 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode  3 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode  5 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode  6 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode  7 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode  8 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode  9 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 10 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 11 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 12 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 13 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 14 : 1280 x  600 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 15 : 1280 x  600 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 16 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 17 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 18 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 19 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 20 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 21 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 22 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 23 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 24 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 25 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 26 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 27 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 28 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 29 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 30 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 31 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 32 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 33 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 34 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 35 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 36 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 37 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 38 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 39 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 40 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 41 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 42 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 43 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 44 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 45 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 46 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 47 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 48 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 49 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 50 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 51 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 52 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 53 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 54 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 55 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 56 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 57 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 58 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 59 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 60 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 61 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 62 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 63 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 64 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 65 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 66 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 67 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 68 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 69 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 70 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 71 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 72 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 73 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 74 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 75 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 76 : 1280 x  600 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 77 : 1280 x  600 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 78 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 79 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 80 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 81 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 82 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 83 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 84 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 85 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 86 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 87 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 88 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 89 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 90 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 91 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 92 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 93 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 94 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 95 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 96 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 97 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 98 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 99 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 100 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 101 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 102 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 103 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 104 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 105 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 106 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 107 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 108 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 109 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 110 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 111 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 112 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 113 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 114 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 115 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 116 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 117 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 118 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 119 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 120 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 121 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 122 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 		- Mode 123 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+19:48:33:911 (00006104) > [Render] 
+19:48:33:911 (00006104) > [SwapChain] Successfully initialized.
+19:48:33:911 (00006104) > [NxApp] PreInit successful.
+19:48:33:911 (00006104) > [Main] Current directory: D:\Games\Rise of the Tomb Raider
+19:48:33:911 (00006104) > [Main] Working directory: D:\Games\Rise of the Tomb Raider
+19:48:33:915 (00006104) > [MultiCore] CPU count: logical = 12
+19:48:33:947 (00006104) > [Main] Steam Language: '(null)'
+19:48:33:947 (00006104) > [Main] Settings: Text Language: 'en-us' | VO Language: 'en-us' | Steam Game Language 'es-es'
+19:48:33:947 (00006104) > [Main] Using: Text Language: 'en-us' | VO Language: 'en-us'
+19:48:34:134 (00006104) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+19:48:36:094 (00006104) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+19:48:36:097 (00006104) > [D3D] Initializing...
+19:48:36:097 (00006104) > [D3D] Loaded d3d11.dll
+19:48:36:097 (00006104) > [D3D] Obtained D3D11CreateDevice address
+19:48:36:097 (00006104) > [D3D] Successfully initialized
+19:48:36:105 (00006104) > [D3D] Max supported feature level: 11.0
+19:48:36:105 (00008628) > [D3D] Creating D3D Device...
+19:48:36:105 (00008628) > [SwapChain] Creating D3D on adapter '1 (NVIDIA GeForce RTX 3050 Ti Laptop GPU(1))'.
+19:48:36:131 (00008628) > [SwapChain] Created D3D device with feature level 11.0.
+19:48:36:132 (00008628) > [D3D] Successfully created.
+19:48:36:132 (00006104) > [NxApp] Querying GPU Driver Info...
+19:48:36:134 (00006104) > [NxApp] Enumerating available display adapters:
+19:48:36:135 (00006104) > [NxApp] 		Intel(R) UHD Graphics
+19:48:36:135 (00006104) > [NxApp] 		NVIDIA GeForce RTX 3050 Ti Laptop GPU (active)
+19:48:36:135 (00006104) > [NxApp] Successfully found GPU Driver Info
+19:48:36:135 (00006104) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+19:48:36:135 (00006104) > [NxApp] Driver Version: 31.0.15.3114
+19:48:36:135 (00006104) > [Settings] DirectX Version: 11
+19:48:36:135 (00006104) > [Settings] Window mode:
+19:48:36:135 (00006104) > [Settings] 	Fullscreen: 1
+19:48:36:135 (00006104) > [Settings] 	Excl.Fullscreen: 0
+19:48:36:135 (00006104) > [Settings] 	Monitor: 0
+19:48:36:135 (00006104) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 1920 h: 1080
+19:48:36:135 (00006104) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 1920 h: 1020
+19:48:36:135 (00006104) > [Settings] 		Aspect Ratio: 1.775000 (Pixel Aspect Ratio: 1.001565)
+19:48:36:135 (00006104) > [Settings] Fullscreen display mode:
+19:48:36:135 (00006104) > [Settings] 	Display mode: 1920x1080@60
+19:48:36:135 (00006104) > [Settings] 		VSync: 1, TripleBuffer: 0
+19:48:36:135 (00006104) > [Settings] 		MultiMonitor: 0
+19:48:36:135 (00006104) > [Settings] 		BezelCorrected: 0
+19:48:36:135 (00006104) > [Settings] 		Stereoscopic3D: 0
+19:48:36:135 (00006104) > [Settings] Window settings:
+19:48:36:135 (00006104) > [Settings] 	Window rect: x: 240 y: 135 w: 1440 h: 810
+19:48:36:135 (00006104) > [Settings] 	User window: w: 1440 h: 810
+19:48:36:135 (00006104) > [Settings] 	Window maximized: 0
+19:48:36:135 (00006104) > [Settings] Graphics Options:
+19:48:36:135 (00006104) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 1
+19:48:36:135 (00006104) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
+19:48:36:135 (00006104) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+19:48:36:135 (00006104) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+19:48:36:135 (00006104) > [Settings] 	Specular Reflection Quality: 0
+19:48:36:135 (00006104) > [Settings] 	FoliageQuality: 1
+19:48:36:135 (00006104) > [Settings] 	FOVCorrection :1.000000
+19:48:36:135 (00006104) > [Settings] 	LevelOfDetail: 2
+19:48:36:135 (00006104) > [Settings] 	StereoSeparation: 0.022000
+19:48:36:135 (00006104) > [Settings] 	StereoPopOut: 5.000000
+19:48:36:135 (00006104) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+19:48:36:135 (00006104) > [NxApp] Creating window...
+19:48:36:137 (00013428) > [GameWindow] UpdateState bVisible true
+19:48:36:148 (00013428) > [Input] Keyboard language: "English (United States)" (id: 1033)
+19:48:36:148 (00013428) > [Input] Keyboard physical layout: "India" (id: 00004009)
+19:48:36:149 (00013428) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 109
+19:48:36:149 (00013428) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+19:48:36:149 (00013428) > [Input] Joystick            ""   product 42 vendor 9610 version 4753 usage 1 usagePage 12 xinput no
+19:48:36:149 (00013428) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 8 sampleRate 0 horizontalWheel no
+19:48:36:149 (00013428) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 52861 vendor 1739 version 259 usage 1 usagePage 65280
+19:48:36:149 (00013428) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+19:48:36:149 (00013428) > [Input] Human Input Device  "HID-compliant wireless radio controls"   product 1 vendor 1 version 1 usage 12 usagePage 1
+19:48:36:149 (00013428) > [Input] Human Input Device  "Synaptics TPFHID Device"   product 52861 vendor 1739 version 259 usage 5 usagePage 13
+19:48:36:149 (00013428) > [Input] Mouse               "Synaptics PrecisionTouchpad Filter Driver"   id 256 buttons 5 sampleRate 40 horizontalWheel no
+19:48:36:149 (00013428) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 7 subType 0 mode 1 function 12 indicators 3 total 101
+19:48:36:151 (00006104) > [NxApp] Window created.
+19:48:36:151 (00006104) > [NxApp] Initializing swapchain...
+19:48:36:151 (00008628) > [SwapChain] Creating...
+19:48:36:151 (00008628) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+19:48:36:151 (00008628) > [Render] NVidia 3D Vision is not enabled.
+19:48:36:152 (00008628) > [VR] VR Released.
+19:48:36:153 (00008628) > [DXGI] Created swapchain.
+19:48:36:153 (00008628) > [SwapChain] Gamma correction is enabled.
+19:48:36:153 (00008628) > [SwapChain] Successfully created.
+19:48:36:170 (00006104) > [NxApp] Swapchain initialized
+19:48:36:170 (00006104) > [NxApp] Initializing renderer...
+19:48:36:171 (00006104) > [NxApp] Renderer initialized
+19:48:36:171 (00006104) > [Main] Starting Tomb Raider v1.0 build 1026.0_64
+19:48:36:208 (00006104) > [D3D] [Render] PCDX11DeviceManager constructor start
+19:48:36:209 (00006104) > [D3D] D3D Adapter Information:
+19:48:36:209 (00006104) > [D3D] Adapter Description: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+19:48:36:209 (00006104) > [D3D] VendorID: 10de
+19:48:36:209 (00006104) > [D3D] DeviceID: 25a0
+19:48:36:209 (00006104) > [D3D] Revision: a1
+19:48:36:209 (00006104) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+19:48:36:209 (00006104) > [D3D] NVAPI loaded succesfully.
+19:48:36:209 (00006104) > [D3D] NVAPI Depth Bounds Test supported.
+19:48:36:257 (00006104) > [VXGI] VXGI has been succesfully initialized
+19:48:36:268 (00006104) > [HBAO+] HBAO+ Context creation succeeded
+19:48:36:952 (00006104) > [D3D] D3D Adapter Information:
+19:48:36:952 (00006104) > [D3D] Adapter Description: Intel(R) UHD Graphics
+19:48:36:952 (00006104) > [D3D] VendorID: 8086
+19:48:36:952 (00006104) > [D3D] DeviceID: 9a68
+19:48:36:952 (00006104) > [D3D] Revision: 1
+19:48:36:974 (00006104) > [VXGI] VXGI has been succesfully initialized
+19:48:36:977 (00006104) > [HBAO+] HBAO+ Context creation succeeded
+19:48:37:008 (00006104) > [D3D] [Render] Adapter I has no outputs!
+19:48:37:008 (00006104) > [D3D] D3D Adapter Information:
+19:48:37:008 (00006104) > [D3D] Adapter Description: Microsoft Basic Render Driver
+19:48:37:008 (00006104) > [D3D] VendorID: 1414
+19:48:37:008 (00006104) > [D3D] DeviceID: 8c
+19:48:37:008 (00006104) > [D3D] Revision: 0
+19:48:37:032 (00006104) > [VXGI] VXGI has been succesfully initialized
+19:48:37:034 (00006104) > [HBAO+] HBAO+ Context creation succeeded
+19:48:37:055 (00006104) > [D3D] [Render] Adapter M has no outputs!
+19:48:37:055 (00006104) > [D3D] [Render] PCDX11DeviceManager constructor end
+19:48:37:055 (00006104) > [D3D] D3D Adapter Information:
+19:48:37:055 (00006104) > [D3D] Adapter Description: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+19:48:37:055 (00006104) > [D3D] VendorID: 10de
+19:48:37:055 (00006104) > [D3D] DeviceID: 25a0
+19:48:37:055 (00006104) > [D3D] Revision: a1
+19:48:37:055 (00006104) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+19:48:37:055 (00006104) > [D3D] NVAPI loaded succesfully.
+19:48:37:055 (00006104) > [D3D] NVAPI Depth Bounds Test supported.
+19:48:37:077 (00006104) > [VXGI] VXGI has been succesfully initialized
+19:48:37:079 (00006104) > [HBAO+] HBAO+ Context creation succeeded
+19:48:37:103 (00006104) > [D3D] PCDX11SwapChain::Resize(1920, 1080, False)
+19:48:37:103 (00006104) > [D3D] PCDX11SwapChain::Resize no change
+19:48:37:359 (00006104) > [Sound] Initalizing audio...
+19:48:37:383 (00006104) > [Sound] Audio device found. FMOD reports 1 driver(s).
+19:48:37:383 (00006104) > [Sound] Audio Driver Name: Speaker (Realtek(R) Audio)
+19:48:37:383 (00006104) > [Sound] Speaker Mode: 2
+19:48:37:884 (00006104) > [Input] Assigned gamepad -1 to player 0
+19:48:38:781 (00006104) > [Epic] LogEOS: Large tick time detected 6.7078
+19:48:38:781 (00006104) > [Epic] LogEOS: Updating Platform SDK Config, Time: 6.707839
+19:48:39:088 (00006104) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+19:48:39:088 (00006104) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+19:48:39:089 (00006104) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+19:48:39:089 (00006104) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+19:48:39:117 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:48:39:117 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:48:39:117 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+19:48:39:117 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 1 (Closing connection 0)
+19:48:39:117 (00006104) > [Epic] WARNING: LogHttp: Lockout of 2.720054s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:48:41:840 (00006104) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:48:41:869 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:48:41:869 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:48:41:869 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+19:48:41:869 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 3 (Closing connection 1)
+19:48:41:869 (00006104) > [Epic] WARNING: LogHttp: Lockout of 5.021149s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:48:43:248 (00006104) > [Menu] UiMenuStateSquareEnixMembers::OnEnter: bFromStartupFlow=1, HasSEMBeenHandled=1, bIsOnline=1
+19:48:46:891 (00006104) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:48:46:926 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:48:46:927 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:48:46:927 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+19:48:46:927 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 5 (Closing connection 2)
+19:48:46:927 (00006104) > [Epic] WARNING: LogHttp: Lockout of 15.473861s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:49:02:406 (00006104) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:49:02:413 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:49:02:413 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:49:02:413 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+19:49:02:413 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 7 (Closing connection 3)
+19:49:02:413 (00006104) > [Epic] WARNING: LogHttp: Lockout of 20.367809s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:49:22:792 (00006104) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:49:22:805 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:49:22:805 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:49:22:805 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+19:49:22:805 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 9 (Closing connection 4)
+19:49:22:805 (00006104) > [Epic] WARNING: LogHttp: Lockout of 40.665302s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:50:03:484 (00006104) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:50:03:520 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:50:03:520 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:50:03:520 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+19:50:03:520 (00006104) > [Epic] WARNING: LogHttp: 000001EF7F82EEF0: libcurl info message cache 11 (Closing connection 5)
+19:50:03:520 (00006104) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:50:03:520 (00006104) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+19:50:03:536 (00006104) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 2.002319 seconds
+19:50:05:527 (00006104) > [Epic] LogEOS: Updating Platform SDK Config, Time: 93.453430
+19:50:05:568 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:50:05:568 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:50:05:568 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+19:50:05:568 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 1 (Closing connection 6)
+19:50:05:568 (00006104) > [Epic] WARNING: LogHttp: Lockout of 3.175817s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:50:08:747 (00006104) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:50:08:782 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:50:08:782 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:50:08:782 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+19:50:08:782 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 3 (Closing connection 7)
+19:50:08:782 (00006104) > [Epic] WARNING: LogHttp: Lockout of 6.699545s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:50:15:484 (00006104) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:50:15:509 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:50:15:509 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:50:15:509 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+19:50:15:509 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 5 (Closing connection 8)
+19:50:15:509 (00006104) > [Epic] WARNING: LogHttp: Lockout of 11.132420s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:50:26:655 (00006104) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:50:26:669 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:50:26:669 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:50:26:669 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+19:50:26:669 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 7 (Closing connection 9)
+19:50:26:669 (00006104) > [Epic] WARNING: LogHttp: Lockout of 27.800653s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:50:54:481 (00006104) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:50:54:508 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:50:54:509 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:50:54:509 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+19:50:54:509 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 9 (Closing connection 10)
+19:50:54:509 (00006104) > [Epic] WARNING: LogHttp: Lockout of 41.202736s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:51:35:718 (00006104) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:51:35:748 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:51:35:748 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:51:35:748 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+19:51:35:748 (00006104) > [Epic] WARNING: LogHttp: 000001F0206EAEE0: libcurl info message cache 11 (Closing connection 11)
+19:51:35:748 (00006104) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:51:35:748 (00006104) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+19:51:35:762 (00006104) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 4.284554 seconds
+19:51:40:039 (00006104) > [Epic] LogEOS: Updating Platform SDK Config, Time: 187.966461
+19:51:40:074 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:51:40:074 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:51:40:074 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+19:51:40:074 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 1 (Closing connection 12)
+19:51:40:075 (00006104) > [Epic] WARNING: LogHttp: Lockout of 3.149937s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:51:43:233 (00006104) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:51:43:260 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:51:43:260 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:51:43:260 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+19:51:43:260 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 3 (Closing connection 13)
+19:51:43:260 (00006104) > [Epic] WARNING: LogHttp: Lockout of 5.080843s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:51:48:350 (00006104) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:51:48:399 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:51:48:399 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:51:48:399 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+19:51:48:399 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 5 (Closing connection 14)
+19:51:48:399 (00006104) > [Epic] WARNING: LogHttp: Lockout of 12.026734s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:52:00:439 (00006104) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:52:00:481 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:52:00:481 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:52:00:481 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+19:52:00:481 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 7 (Closing connection 15)
+19:52:00:481 (00006104) > [Epic] WARNING: LogHttp: Lockout of 23.204809s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:52:23:692 (00006104) > [Epic] WARNING: LogHttp: Retry 4 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:52:23:706 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:52:23:707 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:52:23:707 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+19:52:23:707 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 9 (Closing connection 16)
+19:52:23:707 (00006104) > [Epic] WARNING: LogHttp: Lockout of 45.587330s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:53:09:304 (00006104) > [Epic] WARNING: LogHttp: Retry 5 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:53:09:341 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:53:09:341 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:53:09:341 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+19:53:09:341 (00006104) > [Epic] WARNING: LogHttp: 000001EFD246C080: libcurl info message cache 11 (Closing connection 17)
+19:53:09:341 (00006104) > [Epic] WARNING: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:53:09:341 (00006104) > [Epic] WARNING: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+19:53:09:353 (00006104) > [Epic] WARNING: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 8.841578 seconds
+19:53:18:193 (00006104) > [Epic] LogEOS: Updating Platform SDK Config, Time: 286.119781
+19:53:18:241 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:53:18:241 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:53:18:241 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+19:53:18:241 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: libcurl info message cache 1 (Closing connection 18)
+19:53:18:241 (00006104) > [Epic] WARNING: LogHttp: Lockout of 3.999207s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:53:22:249 (00006104) > [Epic] WARNING: LogHttp: Retry 1 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:53:22:274 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:53:22:274 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:53:22:274 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+19:53:22:274 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: libcurl info message cache 3 (Closing connection 19)
+19:53:22:274 (00006104) > [Epic] WARNING: LogHttp: Lockout of 4.858791s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:53:27:136 (00006104) > [Epic] WARNING: LogHttp: Retry 2 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:53:27:171 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:53:27:171 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:53:27:171 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+19:53:27:171 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: libcurl info message cache 5 (Closing connection 20)
+19:53:27:171 (00006104) > [Epic] WARNING: LogHttp: Lockout of 14.580278s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:53:41:753 (00006104) > [Epic] WARNING: LogHttp: Retry 3 on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:53:41:781 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+19:53:41:781 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+19:53:41:781 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+19:53:41:781 (00006104) > [Epic] WARNING: LogHttp: 000001EFD2467AC0: libcurl info message cache 7 (Closing connection 21)
+19:53:41:781 (00006104) > [Epic] WARNING: LogHttp: Lockout of 25.792290s on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+19:53:41:781 (00006104) > [Epic] LogEOSAnalytics: Dropped 1 metrics from the queue[0]
