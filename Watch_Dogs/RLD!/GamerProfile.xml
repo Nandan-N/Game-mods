@@ -1,0 +1,99 @@
+<GamerProfile bFirstUplayBoot="1" bFirstMPBoot="1" bNeverShowUplayFlow="0" bAskAgainLaterToS="0">
+    <SoundProfile MusicEnabled="1" GlobalVolume="100" MusicVolume="100" LicencedMusicVolume="100" SFXVolume="100" VoiceVolume="100" AutoplayMusicInVehicles="1" VoiceChatEnabled="1" VoiceChatPlaybackVolume="50" />
+    <RenderProfile PCCustomTextureQuality="high" PCCustomAntialiasingQuality="temporalsmaa" RAWCPUScore="805.949" AlphaToCoverage="0" ResolutionX="1920" ResolutionY="1080" Quality="_runtime" QualityEditor="pc_editor" WindowMode="2" WindowPosX="-1" WindowPosY="-1" Force16_9="0" ForceWidescreen="0" WidescreenFOV="0" OutputScalingFactor="1" AspectRatio="0" VSync="0" MaxPrerenderedFrames="1" RefreshRate="60" MaxDriverBufferedFrames="0" ShowFPS="0" IsCalibrationSetup="1" ClustersZPassMaxLOD="1" NewBrightness="1" Contrast_v3="1" NewGammaRamp="1" GammaRampR="1" GammaRampG="1" GammaRampB="1" AllowAsynchShaderLoading="1">
+        <CustomQuality>
+            <quality ResolutionX="1280" ResolutionY="720" EnvironmentQuality="ultra" AntiPortalQuality="pc" PostFxQuality="high" TextureQuality="pc" TextureResolutionQuality="medium" WaterQuality="ultra" ParaboloidReflectionQuality="ultra" DepthPassQuality="pc" VegetationQuality="ultra" TerrainQuality="ultra" GeometryQuality="ultra" LodDitheringQuality="pc" ShadowQuality="ultra" ShadingQuality="high" RoadQuality="pc" EditorQuality="pc" ParticlesQuality="ultra" DeferredFxQuality="console" HDR="1" SuperSampling="0" HighPrecisionNormal="1" RenderSplashes="1" RenderRain="0" MotionBlurQuality="pc" SSAOQuality="hbao+_high" DepthOfFieldQuality="pc" AntiAliasingQuality="fxaa" id="_runtime" />
+        </CustomQuality>
+    </RenderProfile>
+    <NetworkProfile EnableNatTraversal="1" VoiceChatEnabled="1" OnlineEnginePort="9000" OnlineServicePort="9001" LanHostBroadcastPort="9004" LanClientBroadcastPort="9005" ScanFreePorts="1" ScanPortRange="1000" ScanPortStart="9000" />
+    <GameProfile Sensitivity="0.9" MouseLookSensitivityX="50" MouseLookSensitivityY="50" MouseInvertX="0" MouseInvertY="0" UseMouseSmooth="0" Smoothness="1" Sprint_UseToggle="0" Stroll_UseToggle="0" Gamepad_vibration="1" UseCompassMiniMap="1" UseRoadSignHilight="1" UseSubtitles="1" UseReticle="1" UseWaypoint="1" UseHintsAndTutorial="1" UsePdaNotification="1" UseMinimap="1" UseDynamicMission="1" UseItemAndRewards="1" UseMissionUpdate="1" UseFelony="1" UseEquipmentAndTools="1" UseAmbx="0" DifficultyLevel="1" IEn="1" NeutralFireEnabled="0" FriendlyFireEnabled="0" selGamepadControlScheme="0" CameraSpeedCoefficient="1" CameraSensitivityCoefficient="1" CameraInvertX="0" CameraInvertY="0" selAimAssist="1" selDifficulty="1">
+        <FireConfig QualitySetting="VeryHigh" />
+        <AutoConsoleCommands />
+    </GameProfile>
+    <RealTreeProfile />
+    <EngineProfile>
+        <PhysicConfig QualitySetting="VeryHigh" />
+    </EngineProfile>
+    <ControlMapProfile>
+        <Action_Hack Device="%$646CA0E7" Control="%$F500AE27" />
+        <Action_Interact Device="%$646CA0E7" Control="%$EFDA7A5A" />
+        <Tool_Profiler Device="%$646CA0E7" Control="%$62D277AF" />
+        <Tool_Focus Device="%$646CA0E7" Control="%$B986C337" />
+        <Tool_Smartphone Device="%$AF35B6ED" Control="%$32360761" />
+        <Map_Open Device="%$646CA0E7" Control="%$E101F268" />
+        <SetWaypoint Device="%$646CA0E7" Control="%$8CDC1683" />
+        <Inventory_Open Device="%$646CA0E7" Control="%$73E3430C" />
+        <Inventory_EquipPrimary Device="%$646CA0E7" Control="%$83DCEFB7" />
+        <Inventory_EquipSecondary Device="%$646CA0E7" Control="%$1AD5BE0D" />
+        <Inventory_EquipTertiary Device="%$646CA0E7" Control="%$6DD28E9B" />
+        <Inventory_EquipSpecial Device="%$646CA0E7" Control="%$F3B61B38" />
+        <Inventory_CycleProjectiles Device="%$646CA0E7" Control="%$84B12BAE" />
+        <Nav_Up Device="%$646CA0E7" Control="%$1C630B12" />
+        <Nav_Down Device="%$646CA0E7" Control="%$1B0ECF0B" />
+        <Nav_Left Device="%$646CA0E7" Control="%$E8B7BE43" />
+        <Nav_Right Device="%$646CA0E7" Control="%$98DD4ACC" />
+        <Nav_Stroll Device="%$646CA0E7" Control="%$8781A73E" />
+        <Nav_Sprint Device="%$646CA0E7" Control="%$ADDDA2DA" />
+        <Nav_Climb Device="%$646CA0E7" Control="%$2972C13A" />
+        <Nav_EnterCover Device="%$646CA0E7" Control="%$06B9DF6F" />
+        <Nav_ExitCover Device="%$646CA0E7" Control="%$6B643B84" />
+        <Combat_DrawWeapon Device="%$646CA0E7" Control="%$856A5AA8" />
+        <Combat_Aim Device="%$AF35B6ED" Control="%$FF6C09FF" />
+        <Combat_Shoot Device="%$AF35B6ED" Control="%$2B2D3620" />
+        <Combat_Projectile Device="%$646CA0E7" Control="%$01D41B76" />
+        <Combat_Takedown Device="%$646CA0E7" Control="%$76D32BE0" />
+        <Combat_Reload Device="%$646CA0E7" Control="%$6C09FF9D" />
+        <Vehicle_Accelerate Device="%$646CA0E7" Control="%$1C630B12" />
+        <Vehicle_Brake Device="%$646CA0E7" Control="%$1B0ECF0B" />
+        <Vehicle_SteerLeft Device="%$646CA0E7" Control="%$E8B7BE43" />
+        <Vehicle_SteerRight Device="%$646CA0E7" Control="%$98DD4ACC" />
+        <Vehicle_ChangeCam Device="%$646CA0E7" Control="%$06B9DF6F" />
+        <Vehicle_RadioOnOff Device="%$646CA0E7" Control="%$71BEEFF9" />
+        <Vehicle_RadioSkip Device="%$646CA0E7" Control="%$7808A3D2" />
+        <Vehicle_Handbrake Device="%$646CA0E7" Control="%$2972C13A" />
+        <Vehicle_LookBack Device="%$646CA0E7" Control="%$ADDDA2DA" />
+        <Vehicle_Horn Device="%$646CA0E7" Control="%$8781A73E" />
+        <Vehicle_HideInCar Device="%$646CA0E7" Control="%$76D32BE0" />
+    </ControlMapProfile>
+    <AlternateControlMapProfile>
+        <Action_Hack Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Action_Interact Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Tool_Profiler Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Tool_Focus Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Tool_Smartphone Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Map_Open Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <SetWaypoint Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Inventory_Open Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Inventory_EquipPrimary Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Inventory_EquipSecondary Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Inventory_EquipTertiary Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Inventory_EquipSpecial Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Inventory_CycleProjectiles Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Nav_Up Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Nav_Down Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Nav_Left Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Nav_Right Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Nav_Stroll Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Nav_Sprint Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Nav_Climb Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Nav_EnterCover Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Nav_ExitCover Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Combat_DrawWeapon Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Combat_Aim Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Combat_Shoot Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Combat_Projectile Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Combat_Takedown Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Combat_Reload Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Vehicle_Accelerate Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Vehicle_Brake Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Vehicle_SteerLeft Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Vehicle_SteerRight Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Vehicle_ChangeCam Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Vehicle_RadioOnOff Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Vehicle_RadioSkip Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Vehicle_Handbrake Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Vehicle_LookBack Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Vehicle_Horn Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+        <Vehicle_HideInCar Device="%$FFFFFFFF" Control="%$FFFFFFFF" />
+    </AlternateControlMapProfile>
+</GamerProfile>
