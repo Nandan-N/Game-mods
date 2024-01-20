@@ -1,0 +1,13 @@
+// This file is for local settings only and will not be cloud synchronized
+configVersion 9
+r_materialAniso "2"
+r_waterLodViewDistance "16"
+r_waterPostProcess "0"
+r_waterCaustics "0"
+r_waterHitsSim "0"
+r_waterGridResolution "192"
+r_mode "16"
+r_motionBlurQuality "0"
+r_blurRadialScale "0.6666"
+r_blurRadialQuality "0"
+r_SSRQuality "0"
