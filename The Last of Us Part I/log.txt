@@ -1,0 +1,186 @@
+T1X Startup
+
+____________________________________________________________________________________
+|
+|  Compiled on Jun  9 2023 at 15:45:10 from changelist 3613846
+|___________________________________________________________________________________
+
+-[ CPU Info ]--------------------------------------------------------
+    GenuineIntel   : 11th
+    # Logical Cores: 12
+    Base Frequency : 0.00GHz
+    Max Frequency  : 0.00GHz
+    Ref Frequency  : 0.00GHz
+    Features       : mmx, avx, avx2, sse, sse2, sse3, sse41, sse42
+                     f16c, bmi1, bmi2, lzcnt, popcnt, rdtscp, xsave
+                     osxsave, monitor, ssse3, fma, aes, rdseed
+                     rdrand, msr, cx8, sep, cmov, movbe, clfsh
+                     fxsr, fsgsbase, erms, invpcid, avx512f
+                     avx512cd, adx, sha, lahf, syscall, pclmulqdq
+                     cmpxchg16b
+---------------------------------------------------------------------
+
+-[ GPU Adapter Info ]------------------------------------------------
+    Number of Adapters          : 3
+    Number of Supported Adapters: 2
+
+    1. NVIDIA GeForce RTX 3050 Ti Laptop GPU [used]
+            Supported           : Yes
+            Type                : Hardware
+            Max Feature Level   : 12_2 [require 12_0]
+            Vendor ID           : 0x000010de
+            Device ID           : 0x000025a0
+            SubSys ID           : 0x88f9103c
+            Revision            : 0x000000a1
+            Video Memory        : 3.88 GiB (3,977 MiB)
+            System Memory       : 0
+            Shared System Memory: 7.82 GiB (8,010 MiB)
+            Graphics Preemption : pixel
+            Compute Preemption  : dispatch
+            TFlops              : 10.752000
+            Dedicated GPU       : 1
+            Flags               : ACG_COMPATIBLE (0x04)
+                                  SUPPORT_MONITORED_FENCES (0x08)
+                                  KEYED_MUTEX_CONFORMANCE (0x20)
+         -- Features -----------------------------------------------
+          + UAV Additional Formats    - Yes      [required        ]
+          + Raster Order View         - Yes      [not required    ]
+          + PSO Libraries             - Yes      [not required    ]
+          + PSO Driver InProc Cache   - No       [not required    ]
+          + PSO Driver Disk Cache     - No       [not required    ]
+          + Existing Heaps            - Yes      [not required    ]
+          + PS Output Stencil Ref     - No       [not required    ]
+          + More Compute Res States   - Yes      [not required    ]
+          + Logical Blend Ops         - Yes      [not required    ]
+          + Atomic Int 64 Typed Res   - Yes      [required        ]
+          + Atomic Int 64 Group Share - Yes      [not required    ]
+          + Atomic Int 64 Desc Heap   - Yes      [required        ]
+          + Double Shader Ops         - Yes      [not required    ]
+          + Int64 Shader Ops          - Yes      [required        ]
+          + 16 bit Shader Ops         - Yes      [not required    ]
+          + Wave Ops                  - Yes      [required        ]
+          + Resource Binding          - Tier 3   [require Tier 3  ]
+          + Tiled Resources           - Tier 3   [not required    ]
+          + Conservative Raster       - Tier 3   [not required    ]
+          + Resource Heap             - Tier 2   [require Tier 1  ]
+          + View Instancing           - Tier 3   [not required    ]
+          + Raytracing                - Tier 1.1 [not required    ]
+          + Variable Rate Shading     - Tier 2   [not required    ]
+          + Mesh Shaders              - Tier 1   [not required    ]
+          + Sampler Feedback          - Tier 0.9 [not required    ]
+          + Min Float Precision       - 16 bit   [require 32 bit  ]
+          + Max Resource Addressing   - 40 bit   [require 32 bit  ]
+          + Max Process Addressing    - 40 bit   [require 32 bit  ]
+          + Wave Lane Count Min       - 32       [require 0       ]
+          + Wave Lane Count Max       - 32       [require 0       ]
+          + Root Signature Version    - 1_1      [require 1_1     ]
+          + Shader Model              - 6_7      [require 6_6     ]
+
+    2. Intel(R) UHD Graphics
+            Supported           : Yes
+            Type                : Hardware
+            Max Feature Level   : 12_1 [require 12_0]
+            Vendor ID           : 0x00008086
+            Device ID           : 0x00009a68
+            SubSys ID           : 0x88f9103c
+            Revision            : 0x00000001
+            Video Memory        : 128.00 MiB (131,072 KiB)
+            System Memory       : 0
+            Shared System Memory: 7.82 GiB (8,010 MiB)
+            Graphics Preemption : primitive
+            Compute Preemption  : thread group
+            TFlops              : 0.000000
+            Dedicated GPU       : 0
+            Flags               : ACG_COMPATIBLE (0x04)
+                                  SUPPORT_MONITORED_FENCES (0x08)
+                                  KEYED_MUTEX_CONFORMANCE (0x20)
+         -- Features -----------------------------------------------
+          + UAV Additional Formats    - Yes      [required        ]
+          + Raster Order View         - Yes      [not required    ]
+          + PSO Libraries             - Yes      [not required    ]
+          + PSO Driver InProc Cache   - Yes      [not required    ]
+          + PSO Driver Disk Cache     - Yes      [not required    ]
+          + Existing Heaps            - Yes      [not required    ]
+          + PS Output Stencil Ref     - Yes      [not required    ]
+          + More Compute Res States   - Yes      [not required    ]
+          + Logical Blend Ops         - Yes      [not required    ]
+          + Atomic Int 64 Typed Res   - No       [waived          ]
+          + Atomic Int 64 Group Share - No       [not required    ]
+          + Atomic Int 64 Desc Heap   - No       [waived          ]
+          + Double Shader Ops         - No       [not required    ]
+          + Int64 Shader Ops          - Yes      [required        ]
+          + 16 bit Shader Ops         - Yes      [not required    ]
+          + Wave Ops                  - Yes      [required        ]
+          + Resource Binding          - Tier 3   [require Tier 3  ]
+          + Tiled Resources           - Tier 3   [not required    ]
+          + Conservative Raster       - Tier 3   [not required    ]
+          + Resource Heap             - Tier 2   [require Tier 1  ]
+          + View Instancing           - Tier 2   [not required    ]
+          + Raytracing                - No       [not required    ]
+          + Variable Rate Shading     - Tier 1   [not required    ]
+          + Mesh Shaders              - No       [not required    ]
+          + Sampler Feedback          - Tier 0.9 [not required    ]
+          + Min Float Precision       - 16 bit   [require 32 bit  ]
+          + Max Resource Addressing   - 44 bit   [require 32 bit  ]
+          + Max Process Addressing    - 48 bit   [require 32 bit  ]
+          + Wave Lane Count Min       - 16       [require 0       ]
+          + Wave Lane Count Max       - 16       [require 0       ]
+          + Root Signature Version    - 1_1      [require 1_1     ]
+          + Shader Model              - 6_7      [require 6_6     ]
+
+    3. Microsoft Basic Render Driver
+            Supported           : No
+            Type                : Software
+            Max Feature Level   : 12_1 [require 12_0]
+            Vendor ID           : 0x00001414
+            Device ID           : 0x0000008c
+            SubSys ID           : 0x00000000
+            Revision            : 0x00000000
+            Video Memory        : 0
+            System Memory       : 0
+            Shared System Memory: 7.82 GiB (8,010 MiB)
+            Graphics Preemption : instruction
+            Compute Preemption  : instruction
+            TFlops              : 0.000000
+            Dedicated GPU       : 0
+            Flags               : ACG_COMPATIBLE (0x04)
+                                  SUPPORT_MONITORED_FENCES (0x08)
+                                  KEYED_MUTEX_CONFORMANCE (0x20)
+         -- Features -----------------------------------------------
+          + UAV Additional Formats    - Yes      [required        ]
+          + Raster Order View         - Yes      [not required    ]
+          + PSO Libraries             - Yes      [not required    ]
+          + PSO Driver InProc Cache   - No       [not required    ]
+          + PSO Driver Disk Cache     - No       [not required    ]
+          + Existing Heaps            - Yes      [not required    ]
+          + PS Output Stencil Ref     - Yes      [not required    ]
+          + More Compute Res States   - Yes      [not required    ]
+          + Logical Blend Ops         - Yes      [not required    ]
+          + Atomic Int 64 Typed Res   - No       [waived          ]
+          + Atomic Int 64 Group Share - No       [not required    ]
+          + Atomic Int 64 Desc Heap   - No       [waived          ]
+          + Double Shader Ops         - Yes      [not required    ]
+          + Int64 Shader Ops          - Yes      [required        ]
+          + 16 bit Shader Ops         - Yes      [not required    ]
+          + Wave Ops                  - Yes      [required        ]
+          + Resource Binding          - Tier 3   [require Tier 3  ]
+          + Tiled Resources           - Tier 3   [not required    ]
+          + Conservative Raster       - Tier 3   [not required    ]
+          + Resource Heap             - Tier 2   [require Tier 1  ]
+          + View Instancing           - Tier 1   [not required    ]
+          + Raytracing                - No       [not required    ]
+          + Variable Rate Shading     - Tier 1   [not required    ]
+          + Mesh Shaders              - No       [not required    ]
+          + Sampler Feedback          - No       [not required    ]
+          + Min Float Precision       - 32 bit   [require 32 bit  ]
+          + Max Resource Addressing   - 32 bit   [require 32 bit  ]
+          + Max Process Addressing    - 47 bit   [require 32 bit  ]
+          + Wave Lane Count Min       - 4        [require 0       ]
+          + Wave Lane Count Max       - 4        [require 0       ]
+          + Root Signature Version    - 1_1      [require 1_1     ]
+          - Shader Model              - 6_2      [require 6_6     ]
+---------------------------------------------------------------------
+-[ NVIDIA Driver Info ]----------------------------------------------
+	Version       : 546.17
+	Branch        : r545_96
+---------------------------------------------------------------------
