@@ -1,0 +1,331 @@
+18:03:36:141 (00008408) > [Startup] Ghost of Tsushima DIRECTOR'S CUT
+18:03:36:141 (00008408) > [Startup] ==============
+18:03:36:141 (00008408) > [Startup] 
+18:03:36:141 (00008408) > [Startup] Build: v1053.0.0515.2048
+18:03:36:141 (00008408) > [Startup] Windows 11.0 (build 22631.3593)
+18:03:36:141 (00008408) > [Startup] Distribution platform: Steam
+18:03:36:141 (00008408) > [Startup] Game directory: C:\Users\<username>\Documents\Ghost of Tsushima DIRECTOR'S CUT\
+18:03:36:141 (00008408) > [Startup] Working directory: E:\From Nandan\Ghost of Tsushima DC
+18:03:36:141 (00008408) > [Startup] Run ID: 22D0-C1D3-4876-01C6
+18:03:36:141 (00008408) > [Startup] 
+18:03:36:141 (00008408) > [Startup] Memory statistics:
+18:03:36:141 (00008408) > [Startup]   Total RAM = 15.6 GB (16021 MB)
+18:03:36:141 (00008408) > [Startup]   Avail RAM = 8.0 GB (8171 MB)
+18:03:36:141 (00008408) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+18:03:36:141 (00008408) > [Startup]   Avail virtual memory = 131066.7 GB (134212329 MB)
+18:03:36:141 (00008408) > [Startup]   Total page file = 31.3 GB (32043 MB)
+18:03:36:141 (00008408) > [Startup]   Avail page file = 22.4 GB (22896 MB)
+18:03:36:141 (00008408) > [Startup] 
+18:03:36:141 (00008408) > [Steam] Initializing.
+18:03:36:141 (00008408) > [Steam] Successfully initialized.
+18:03:36:141 (00008408) > [Steam] Currently connected to 0 remote sessions
+18:03:36:141 (00008408) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
+18:03:36:548 (00008408) > [NxApp] PreInit
+18:03:36:564 (00008408) > [SwapChain] Initializing...
+18:03:36:564 (00008408) > [DXGI] Initializing...
+18:03:40:722 (00008408) > [NxApp] Streamline was successfully initialized.
+18:03:40:722 (00008408) > [DXGI] Successfully initialized.
+18:03:40:722 (00008408) > [Render] Enumerating adapters:
+18:03:40:722 (00008408) > [Render] 	Adapter 0:
+18:03:40:722 (00008408) > [Monitor] 		Description             : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+18:03:40:722 (00008408) > [Monitor] 		Vendor                  : nVidia (10de)
+18:03:40:722 (00008408) > [Monitor] 		Device                  : 25a0
+18:03:40:722 (00008408) > [Monitor] 		Sub system              : 88f9103c
+18:03:40:722 (00008408) > [Monitor] 		Revision                : 161
+18:03:40:722 (00008408) > [Monitor] 		Dedicated Video Memory  : 3962 MB
+18:03:40:722 (00008408) > [Monitor] 		Dedicated System Memory : 0000 MB
+18:03:40:722 (00008408) > [Monitor] 		Shared System Memory    : 8010 MB
+18:03:40:722 (00008408) > [Monitor] 
+18:03:40:722 (00008408) > [Render] Loading NVAPI...
+18:03:40:724 (00008408) > [Render] Done loading NVAPI
+18:03:40:725 (00008408) > [Render] 	Adapter 1:
+18:03:40:725 (00008408) > [Monitor] 		Description             : Intel(R) UHD Graphics
+18:03:40:725 (00008408) > [Monitor] 		Vendor                  : Intel (8086)
+18:03:40:725 (00008408) > [Monitor] 		Device                  : 9a68
+18:03:40:725 (00008408) > [Monitor] 		Sub system              : 88f9103c
+18:03:40:725 (00008408) > [Monitor] 		Revision                : 1
+18:03:40:725 (00008408) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+18:03:40:725 (00008408) > [Monitor] 		Dedicated System Memory : 0000 MB
+18:03:40:725 (00008408) > [Monitor] 		Shared System Memory    : 8010 MB
+18:03:40:725 (00008408) > [Monitor] 
+18:03:40:725 (00008408) > [Render] 	Adapter 2:
+18:03:40:725 (00008408) > [Monitor] 		Description             : Microsoft Basic Render Driver
+18:03:40:725 (00008408) > [Monitor] 		Vendor                  : Unknown (1414)
+18:03:40:725 (00008408) > [Monitor] 		Device                  : 8c
+18:03:40:725 (00008408) > [Monitor] 		Sub system              : 0
+18:03:40:725 (00008408) > [Monitor] 		Revision                : 0
+18:03:40:725 (00008408) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+18:03:40:725 (00008408) > [Monitor] 		Dedicated System Memory : 0000 MB
+18:03:40:725 (00008408) > [Monitor] 		Shared System Memory    : 8010 MB
+18:03:40:725 (00008408) > [Monitor] 
+18:03:40:725 (00008408) > [Render] Enumerating monitors:
+18:03:40:725 (00008408) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.77, rounded aspect = 1.78
+18:03:40:725 (00008408) > [Render] 
+18:03:40:725 (00008408) > [Render] Failed to get the nvidia display handle
+18:03:40:725 (00008408) > [Render] Failed to get the nvidia display output ID
+18:03:40:726 (00008408) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+18:03:40:726 (00008408) > [SwapChain] Successfully initialized.
+18:03:40:726 (00008408) > [Render] Enumerating Display Modes:
+18:03:40:727 (00008408) > [Render] Querying NVAPI for Surround modes
+18:03:40:727 (00008408) > [Render] NvAPI_DISP_GetGDIPrimaryDisplayId returned NVAPI_NVIDIA_DEVICE_NOT_FOUND (fffffffa)
+
+18:03:40:727 (00008408) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3050 Ti Laptop GPU(1))' (0000000000010001): rect(0 1920 0 1080)
+18:03:40:727 (00008408) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode  2 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode  3 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode  5 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode  6 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode  7 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode  8 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode  9 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 10 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 11 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 12 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 13 : 1280 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 14 : 1280 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 15 : 1280 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 16 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 17 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 18 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 19 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 20 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 21 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 22 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 23 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 24 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 25 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 26 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 27 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 28 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 29 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 30 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 31 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 32 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 33 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 34 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 35 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 36 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 37 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 38 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 39 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 40 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 41 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 42 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 43 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 44 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 45 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 46 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 47 : 1400 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 48 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 49 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 50 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 51 : 1440 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 52 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 53 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 54 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 55 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 56 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 57 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 58 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 59 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 60 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] 		- Mode 61 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+18:03:40:727 (00008408) > [Render] ***** Additional Monitor Output Info *****
+18:03:40:727 (00008408) > [Render] 		BitsPerColor: 8
+18:03:40:727 (00008408) > [Render] 		Primaries: R=0.5898;0.3496  G=0.3398;0.5566  B=0.1602;0.1201  White-Point=0.3135;0.3291
+18:03:40:727 (00008408) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+18:03:40:727 (00008408) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+18:03:40:727 (00008408) > [Render] ******************************************
+18:03:40:727 (00008408) > [Render] 
+18:03:41:163 (00008408) > [NxReflex] Reflex support result:Result::eOk
+18:03:41:163 (00008408) > [NxReflex] Reflex GetState result:Result::eErrorNotInitialized
+18:03:41:163 (00008408) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+18:03:41:163 (00008408) > [NxApp] Querying GPU Driver Info...
+18:03:41:164 (00008408) > [NxApp] Enumerating available display adapters:
+18:03:41:237 (00008408) > [NxApp] 		Intel(R) UHD Graphics
+18:03:41:237 (00008408) > [NxApp] 		NVIDIA GeForce RTX 3050 Ti Laptop GPU (active)
+18:03:41:237 (00008408) > [NxApp] Successfully found GPU Driver Info
+18:03:41:237 (00008408) > [D3D] Max supported feature level: 11.0
+18:03:41:237 (00008408) > [Render] Disabled D3D12 experimentals
+18:03:41:332 (00008408) > [Render] VMEM Budget: 3367 MB
+18:03:41:332 (00008408) > [Render] VMEM Available: 3361 MB
+18:03:41:930 (00008408) > [Render] GPU node count: 1
+18:03:41:960 (00008408) > [NxApp] PreInit successful.
+18:03:41:966 (00008408) > [NxUpscaler] SL DLSS support: Result::eOk
+18:03:42:049 (00008408) > [NxUpscaler] XeSS init, code = 0
+18:03:42:052 (00008408) > [Input] Keyboard language: "English (India)" (id: 16393)
+18:03:42:052 (00008408) > [Input] Keyboard physical layout: "India" (id: 00004009)
+18:03:42:052 (00008408) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 109
+18:03:42:052 (00008408) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+18:03:42:052 (00008408) > [Input] Joystick            ""   product 42 vendor 9610 version 4753 usage 1 usagePage 12 xinput no
+18:03:42:053 (00008408) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 52861 vendor 1739 version 259 usage 1 usagePage 65280
+18:03:42:053 (00008408) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+18:03:42:053 (00008408) > [Input] Human Input Device  "HID-compliant wireless radio controls"   product 1 vendor 1 version 1 usage 12 usagePage 1
+18:03:42:053 (00008408) > [Input] Human Input Device  "Synaptics TPFHID Device"   product 52861 vendor 1739 version 259 usage 5 usagePage 13
+18:03:42:053 (00008408) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 8 sampleRate 0 horizontalWheel no
+18:03:42:053 (00008408) > [Input] Mouse               "Synaptics PrecisionTouchpad Filter Driver"   id 256 buttons 5 sampleRate 40 horizontalWheel no
+18:03:42:053 (00008408) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 7 subType 0 mode 1 function 12 indicators 3 total 101
+18:03:42:059 (00008408) > [Input] Using LibScePad
+18:03:42:060 (00008408) > [XInput] Enumerating available xusb hid devices:
+
+18:04:00:424 (00008408) > [NxReflex] Reflex support result:Result::eOk
+18:04:00:424 (00008408) > [NxReflex] Reflex GetState result:Result::eOk
+18:04:00:424 (00008408) > [NxReflex] DLSSG support result:Result::eErrorNoSupportedAdapterFound
+18:04:00:424 (00008408) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+18:04:00:424 (00008408) > [NxApp] Driver Version: 552.44
+18:04:00:424 (00008408) > [**************************************************Display + Graphics Settings**************************************************] 
+18:04:00:424 (00008408) > [Settings] DirectX Version: 12
+18:04:00:424 (00008408) > [Settings] Window mode: Fullscreen
+18:04:00:424 (00008408) > [Settings] Fullscreen display mode:
+18:04:00:424 (00008408) > [Settings] 	Displaying on monitor: 0
+18:04:00:424 (00008408) > [Settings] 	Resolution: 1920x1080
+18:04:00:424 (00008408) > [Settings] 	HDR: Off
+18:04:00:424 (00008408) > [Settings] 	OS reported Refresh rate: 60
+18:04:00:424 (00008408) > [Settings] 	VSync: On
+18:04:00:424 (00008408) > [Settings] 	Reflex: Low Latency
+18:04:00:424 (00008408) > [Settings] 	Frame generation: None
+18:04:00:424 (00008408) > [Settings] 	Resolution modifier 1.000000
+18:04:00:424 (00008408) > [Settings] 	Dynamic resolution FPS target: 60
+18:04:00:424 (00008408) > [Settings] Anti aliasing: TAA
+
+18:04:00:424 (00008408) > [Settings] Upscale method: DLSS
+
+18:04:00:424 (00008408) > [Settings] Upscale quality: Quality
+
+18:04:00:424 (00008408) > [Settings] Upscale sharpen value: 0.500000
+
+18:04:00:424 (00008408) > [Settings] Graphics Options:
+18:04:00:424 (00008408) > [Settings] 	Texture Quality: Low
+18:04:00:424 (00008408) > [Settings] 	Texture Filtering: Trilinear
+18:04:00:424 (00008408) > [Settings] 	Shadow Quality: Low
+18:04:00:424 (00008408) > [Settings] 	Depth of Field: Low
+18:04:00:424 (00008408) > [Settings] 	Level of Detail: Low
+18:04:00:424 (00008408) > [Settings] 	Terrain Detail: Low
+18:04:00:424 (00008408) > [Settings] 	Hair Quality: Low
+18:04:00:424 (00008408) > [Settings] 	Ambient Occlusion: SSAO Quality
+18:04:00:424 (00008408) > [Settings] 	Screen Space Reflections: Off
+18:04:00:424 (00008408) > [Settings] 	Particle Lighting: Low
+
+18:04:00:424 (00008408) > [Settings] 	Bloom: On
+18:04:00:424 (00008408) > [Settings] 	Vignette: On
+18:04:00:424 (00008408) > [Settings] 	Caustics: On
+18:04:00:424 (00008408) > [Settings] 	Motion Blur: 1.000000
+18:04:00:424 (00008408) > [Settings] 	FOV Correction: 1.000000
+18:04:00:424 (00008408) > [Settings] 	Film Grain Strength: 1.000000
+18:04:00:424 (00008408) > [Settings] 	Sharpness: 1.000000
+18:04:00:424 (00008408) > [Settings] 	Lens Flares: On
+18:04:00:424 (00008408) > [Settings] 	Screen Effects: On
+18:04:00:424 (00008408) > [**************************************************Display + Graphics Settings**************************************************] 
+18:04:00:451 (00008408) > [NxApp] Creating window...
+18:04:00:451 (00016820) > [GameWindow] UpdateState bVisible true
+18:04:00:467 (00008408) > [NxApp] Window created.
+18:04:00:467 (00008408) > [NxApp] Initializing swapchain...
+18:04:00:467 (00013232) > [SwapChain] Creating...
+18:04:00:467 (00013232) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+18:04:00:467 (00013232) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
+18:04:00:529 (00013232) > [DXGI] Created swapchain.
+18:04:00:623 (00013232) > [SwapChain] Gamma correction is enabled.
+18:04:00:623 (00013232) > [SwapChain] Successfully created.
+18:04:00:623 (00013232) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+18:04:00:623 (00013232) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
+18:04:00:623 (00008408) > [NxApp] Swapchain initialized
+18:04:00:623 (00008408) > [NxApp] Initializing renderer...
+18:04:00:623 (00008408) > [NxApp] Renderer initialized
+18:04:00:623 (00008408) > [NxStorage] Could not determine device type at 'e:\from nandan\ghost of tsushima dc'
+18:04:01:076 (00008408) > [NxStorage] DirectStorage initialization succeeded
+18:04:01:076 (00008408) > [CJobManager] Creating  10 worker threads, run on  11 cores
+
+18:04:01:185 (00008408) > [Render] Pipeline cache C:\Users\<username>\AppData\Roaming\Sucker Punch Productions\Ghost of Tsushima DIRECTOR'S CUT\\user.pso read succesfully, read 3 pipelines, found 0 duplicates.
+18:04:01:264 (00008408) > [Render] Pipeline cache default.pso read succesfully, read 16192 pipelines, found 0 duplicates.
+18:04:01:264 (00008408) > [SCE] SDK is not detected
+18:04:02:062 (00008408) > [Steam] Stats received: 2
+18:04:36:113 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:04:36:113 (00002724) > [Render] Working set: 2040MB Page file: 4467MB Video Budget: 3367MB Video Usage: 1558MB Sys Budget: 7354MB Sys Usage: 281MB Demoted: 0MB fps: 33.483334
+18:05:36:113 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:05:36:113 (00002724) > [Render] Working set: 5019MB Page file: 7946MB Video Budget: 3367MB Video Usage: 2122MB Sys Budget: 7354MB Sys Usage: 302MB Demoted: 0MB fps: 33.483334 Demoted: 0MB fps: 58.350002
+18:06:36:118 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:06:36:118 (00002724) > [Render] Working set: 4842MB Page file: 7785MB Video Budget: 3367MB Video Usage: 2071MB Sys Budget: 7354MB Sys Usage: 302MB Demoted: 0MB fps: 58.350002 Demoted: 0MB fps: 59.850002
+18:07:36:124 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:07:36:124 (00002724) > [Render] Working set: 5640MB Page file: 9337MB Video Budget: 3367MB Video Usage: 2812MB Sys Budget: 7354MB Sys Usage: 315MB Demoted: 0MB fps: 59.850002 Demoted: 0MB fps: 58.283337
+18:08:36:121 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:08:36:121 (00002724) > [Render] Working set: 5640MB Page file: 9337MB Video Budget: 3367MB Video Usage: 2812MB Sys Budget: 7354MB Sys Usage: 315MB Demoted: 0MB fps: 58.283337 Demoted: 0MB fps: 60.000004
+18:09:36:119 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:09:36:119 (00002724) > [Render] Working set: 5640MB Page file: 9337MB Video Budget: 3367MB Video Usage: 2812MB Sys Budget: 7354MB Sys Usage: 315MB Demoted: 0MB fps: 60.000004 Demoted: 0MB fps: 60.000004
+18:10:36:117 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:10:36:117 (00002724) > [Render] Working set: 5641MB Page file: 9337MB Video Budget: 3367MB Video Usage: 2812MB Sys Budget: 7354MB Sys Usage: 315MB Demoted: 0MB fps: 60.000004 Demoted: 0MB fps: 60.000004
+18:11:36:114 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:11:36:115 (00002724) > [Render] Working set: 5641MB Page file: 9337MB Video Budget: 3367MB Video Usage: 2812MB Sys Budget: 7354MB Sys Usage: 315MB Demoted: 0MB fps: 60.000004 Demoted: 0MB fps: 60.000004
+18:12:36:111 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:12:36:112 (00002724) > [Render] Working set: 5641MB Page file: 9337MB Video Budget: 3367MB Video Usage: 2812MB Sys Budget: 7354MB Sys Usage: 315MB Demoted: 0MB fps: 60.000004 Demoted: 0MB fps: 60.000004
+18:13:36:113 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:13:36:113 (00002724) > [Render] Working set: 5655MB Page file: 9362MB Video Budget: 3367MB Video Usage: 2760MB Sys Budget: 7354MB Sys Usage: 320MB Demoted: 0MB fps: 60.000004 Demoted: 0MB fps: 59.983337
+18:14:36:122 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:14:36:122 (00002724) > [Render] Working set: 5729MB Page file: 9529MB Video Budget: 3367MB Video Usage: 2874MB Sys Budget: 7354MB Sys Usage: 322MB Demoted: 0MB fps: 59.983337 Demoted: 0MB fps: 60.000004
+18:15:36:119 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:15:36:119 (00002724) > [Render] Working set: 5747MB Page file: 9581MB Video Budget: 3367MB Video Usage: 2877MB Sys Budget: 7354MB Sys Usage: 323MB Demoted: 0MB fps: 60.000004 Demoted: 0MB fps: 59.950005
+18:16:36:120 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:16:36:120 (00002724) > [Render] Working set: 5796MB Page file: 9591MB Video Budget: 3367MB Video Usage: 2889MB Sys Budget: 7354MB Sys Usage: 325MB Demoted: 0MB fps: 59.950005 Demoted: 0MB fps: 59.633335
+18:17:36:114 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:17:36:114 (00002724) > [Render] Working set: 5824MB Page file: 9647MB Video Budget: 3367MB Video Usage: 2929MB Sys Budget: 7354MB Sys Usage: 328MB Demoted: 0MB fps: 59.633335 Demoted: 0MB fps: 58.800003
+18:18:36:115 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:18:36:115 (00002724) > [Render] Working set: 5837MB Page file: 9667MB Video Budget: 3367MB Video Usage: 2942MB Sys Budget: 7354MB Sys Usage: 328MB Demoted: 0MB fps: 58.800003 Demoted: 0MB fps: 58.466671
+18:19:36:127 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:19:36:127 (00002724) > [Render] Working set: 5853MB Page file: 9690MB Video Budget: 3367MB Video Usage: 2951MB Sys Budget: 7354MB Sys Usage: 330MB Demoted: 0MB fps: 58.466671 Demoted: 0MB fps: 58.350002
+18:20:36:133 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:20:36:134 (00002724) > [Render] Working set: 5869MB Page file: 9734MB Video Budget: 3367MB Video Usage: 2982MB Sys Budget: 7354MB Sys Usage: 330MB Demoted: 0MB fps: 58.350002 Demoted: 0MB fps: 59.116669
+18:21:36:133 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:21:36:133 (00002724) > [Render] Working set: 5889MB Page file: 9766MB Video Budget: 3367MB Video Usage: 2980MB Sys Budget: 7354MB Sys Usage: 331MB Demoted: 0MB fps: 59.116669 Demoted: 0MB fps: 59.550003
+18:22:36:140 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:22:36:140 (00002724) > [Render] Working set: 5893MB Page file: 9767MB Video Budget: 3367MB Video Usage: 2973MB Sys Budget: 7354MB Sys Usage: 331MB Demoted: 0MB fps: 59.550003 Demoted: 0MB fps: 59.400002
+18:23:36:132 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:23:36:132 (00002724) > [Render] Working set: 5897MB Page file: 9766MB Video Budget: 3367MB Video Usage: 2976MB Sys Budget: 7354MB Sys Usage: 333MB Demoted: 0MB fps: 59.400002 Demoted: 0MB fps: 58.300003
+18:24:36:132 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:24:36:132 (00002724) > [Render] Working set: 5899MB Page file: 9773MB Video Budget: 3367MB Video Usage: 2991MB Sys Budget: 7354MB Sys Usage: 333MB Demoted: 0MB fps: 58.300003 Demoted: 0MB fps: 58.716671
+18:25:36:131 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:25:36:131 (00002724) > [Render] Working set: 5903MB Page file: 9825MB Video Budget: 3367MB Video Usage: 3006MB Sys Budget: 7354MB Sys Usage: 334MB Demoted: 0MB fps: 58.716671 Demoted: 0MB fps: 58.516670
+18:26:36:134 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:26:36:134 (00002724) > [Render] Working set: 5910MB Page file: 9807MB Video Budget: 3367MB Video Usage: 2984MB Sys Budget: 7354MB Sys Usage: 334MB Demoted: 0MB fps: 58.516670 Demoted: 0MB fps: 59.783337
+18:27:36:134 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:27:36:134 (00002724) > [Render] Working set: 5911MB Page file: 9870MB Video Budget: 3367MB Video Usage: 3069MB Sys Budget: 7354MB Sys Usage: 334MB Demoted: 0MB fps: 59.783337 Demoted: 0MB fps: 60.000004
+18:28:36:133 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:28:36:133 (00002724) > [Render] Working set: 5911MB Page file: 9950MB Video Budget: 3367MB Video Usage: 3151MB Sys Budget: 7354MB Sys Usage: 334MB Demoted: 0MB fps: 60.000004 Demoted: 0MB fps: 60.000004
+18:29:36:130 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:29:36:130 (00002724) > [Render] Working set: 5912MB Page file: 10021MB Video Budget: 3367MB Video Usage: 3161MB Sys Budget: 7354MB Sys Usage: 334MB Demoted: 0MB fps: 60.000004 Demoted: 0MB fps: 60.000004
+18:30:36:128 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:30:36:128 (00002724) > [Render] Working set: 5913MB Page file: 10010MB Video Budget: 3367MB Video Usage: 3219MB Sys Budget: 7354MB Sys Usage: 334MB Demoted: 0MB fps: 60.000004 Demoted: 0MB fps: 60.000004
+18:31:36:143 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:31:36:143 (00002724) > [Render] Working set: 6139MB Page file: 10074MB Video Budget: 3367MB Video Usage: 3078MB Sys Budget: 7354MB Sys Usage: 543MB Demoted: 0MB fps: 60.000004 Demoted: 209MB fps: 59.833336
+18:32:36:144 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:32:36:144 (00002724) > [Render] Working set: 6136MB Page file: 10064MB Video Budget: 3367MB Video Usage: 3055MB Sys Budget: 7354MB Sys Usage: 524MB Demoted: 209MB fps: 59.833336 Demoted: 190MB fps: 57.983337
+18:33:36:156 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:33:36:156 (00002724) > [Render] Working set: 6116MB Page file: 10088MB Video Budget: 3367MB Video Usage: 3118MB Sys Budget: 7354MB Sys Usage: 504MB Demoted: 190MB fps: 57.983337 Demoted: 169MB fps: 59.966671
+18:34:36:154 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:34:36:154 (00002724) > [Render] Working set: 5341MB Page file: 10142MB Video Budget: 3367MB Video Usage: 3151MB Sys Budget: 7354MB Sys Usage: 500MB Demoted: 169MB fps: 59.966671 Demoted: 165MB fps: 60.000004
+18:34:50:405 (00008408) > [Input] Input language was changed.
+18:34:50:405 (00008408) > [Input] Keyboard language: "English (United States)" (id: 1033)
+18:34:50:405 (00008408) > [Input] Keyboard physical layout: "India" (id: 00004009)
+18:35:36:142 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:35:36:142 (00002724) > [Render] Working set: 5342MB Page file: 10218MB Video Budget: 3367MB Video Usage: 3211MB Sys Budget: 7354MB Sys Usage: 498MB Demoted: 165MB fps: 60.000004 Demoted: 164MB fps: 59.983337
+18:36:36:142 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:36:36:142 (00002724) > [Render] Working set: 5341MB Page file: 10196MB Video Budget: 3367MB Video Usage: 3235MB Sys Budget: 7354MB Sys Usage: 500MB Demoted: 164MB fps: 59.983337 Demoted: 164MB fps: 60.000004
+18:37:36:147 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:37:36:148 (00002724) > [Render] Working set: 5332MB Page file: 10157MB Video Budget: 3367MB Video Usage: 3172MB Sys Budget: 7354MB Sys Usage: 499MB Demoted: 164MB fps: 60.000004 Demoted: 162MB fps: 60.000004
+18:38:36:155 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:38:36:155 (00002724) > [Render] Working set: 5334MB Page file: 10254MB Video Budget: 3367MB Video Usage: 3212MB Sys Budget: 7354MB Sys Usage: 499MB Demoted: 162MB fps: 60.000004 Demoted: 162MB fps: 59.900002
+18:39:36:157 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:39:36:157 (00002724) > [Render] Working set: 3036MB Page file: 10189MB Video Budget: 3367MB Video Usage: 3163MB Sys Budget: 7354MB Sys Usage: 499MB Demoted: 162MB fps: 59.900002 Demoted: 162MB fps: 60.000004
+18:40:36:142 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:40:36:142 (00002724) > [Render] Working set: 3210MB Page file: 10220MB Video Budget: 3367MB Video Usage: 3130MB Sys Budget: 7354MB Sys Usage: 616MB Demoted: 162MB fps: 60.000004 Demoted: 279MB fps: 59.866669
+18:41:36:158 (00002724) > [Render] Quering NVAPI for GPU temperature
+18:41:36:158 (00002724) > [Render] Working set: 3187MB Page file: 10181MB Video Budget: 3367MB Video Usage: 3091MB Sys Budget: 7354MB Sys Usage: 611MB Demoted: 279MB fps: 59.866669 Demoted: 274MB fps: 60.016670
+18:42:28:909 (00008408) > [NxApp] Destroying
+18:42:28:925 (00008408) > [DXGI] Destroyed swapchain.
+18:42:28:925 (00008408) > [SwapChain] Destroyed.
+18:42:28:925 (00008408) > [SwapChain] Released.
+18:42:28:927 (00008408) > [Render] Unloading NVAPI
+18:42:28:927 (00008408) > [Render] Done unloading NVAPI
+18:42:28:930 (00008408) > [DXGI] Destroyed swapchain.
+18:42:28:930 (00008408) > [DXGI] Released.
+--- NIXXES log closed ---
